@@ -1,3 +1,11 @@
 .navbar-brand img{
 	height: 20px;
 }
+.side-bar .list-group-item{
+	border: 0;
+	border-radius: 3px;
+	margin-bottom: 5px;
+}
+.side-bar .list-group-item.active{
+	background-color: #ee4c4c;
+}
