@@ -1,3 +1,6 @@
+a:hover{
+	text-decoration: none;
+}
 img{
 	max-width: 100%;
 	display: block;
@@ -14,13 +17,35 @@ img{
 .side-bar .list-group-item.active{
 	background-color: #ee4c4c;
 }
-.news-list p.title{
+.news-list a.title{
+	display: block;
+	color: #444;
 	font-size: 18px;
 	font-weight: bold;
 	margin-top: 10px;
 	margin-bottom: 10px;
 	line-height: 1.5;
 }
+.news-list a.title:hover{
+	color: #337ab7;
+}
 .news-list .info{
-	color: #666;
+	color: #888;
+}
+.news-list .info .avatar{
+	display: inline-block;
+}
+.news-list .info .avatar img{
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	margin-right: 5px;
+	vertical-align: top;
+}
+.news-list-item{
+	padding: 15px 0;
+	border-bottom: 1px solid #eee;
+}
+.news-list-item:first-child{
+	padding-top: 0;
 }
