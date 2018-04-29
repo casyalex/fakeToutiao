@@ -2,6 +2,7 @@
 	line-height: 1.3;
 }
 .news-status{
+	margin-top: 20px;
 	color: #999;
 }
 .news-status .label{
@@ -13,5 +14,20 @@
 	line-height: 1.5;
 }
 .news-content img{
-	margin: 10px auto;
+	margin: 0 auto;
+	vertical-align: middle;
 }
+.no-padding-h{
+	padding-left: 0;
+	padding-right: 0;
+}
+.side-bar-card .card-body li{
+	padding: 10px 10px;
+	vertical-align: middle;
+}
+.side-bar-card img{
+	display: block;
+	vertical-align: middle;
+	margin: auto 0;
+}
+

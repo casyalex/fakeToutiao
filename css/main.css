@@ -89,3 +89,10 @@ img{
 .side-bar-card ul li:hover{
 	background: rgba(0,0,0,0.2);
 }
+
+footer{
+	margin-top: 20px;
+	padding: 50px 0;
+	text-align: center;
+	color: #999;
+}
