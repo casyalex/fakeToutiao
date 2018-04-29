@@ -1,17 +1,27 @@
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+li{
+	padding: 0;
+}
 a:hover{
 	text-decoration: none;
 }
+img,.side-bar .list-group-item,.side-bar-card.flag,.side-bar-card{
+	border-radius: 3px;
+}
+
 img{
 	max-width: 100%;
 	display: block;
-	border-radius: 3px;
 }
 .navbar-brand img{
 	height: 20px;
 }
 .side-bar .list-group-item{
 	border: 0;
-	border-radius: 3px;
 	margin-bottom: 5px;
 }
 .side-bar .list-group-item.active{
@@ -48,4 +58,35 @@ img{
 }
 .news-list-item:first-child{
 	padding-top: 0;
+}
+.side-bar-card{
+	background: rgba(0,0,0,.05);
+	margin: 15px 0 0 0;
+	padding: 10px 0;
+}
+.side-bar-card.flag{
+	padding: 20px 0;
+}
+.side-bar-card .text-lg{
+	font-size: 150%;
+}
+.side-bar-card .card-title{
+	padding: 0 15px;
+	font-size: 18px;
+	font-weight: bold;
+}
+.side-bar-card .title{
+	padding: 0 15px;
+	margin-bottom: 5px;
+}
+.side-bar-card ul p{
+	padding: 0 15px;
+	margin: 0;
+	color: #999;
+}
+.side-bar-card ul li{
+	padding: 15px 0;
+}
+.side-bar-card ul li:hover{
+	background: rgba(0,0,0,0.2);
 }
