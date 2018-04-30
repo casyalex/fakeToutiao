@@ -101,3 +101,30 @@ footer{
 	text-align: center;
 	color: #999;
 }
+
+.container-small{
+	max-width: 500px;
+}
+.btn-primary{
+	background-color: #ee4c4c;
+	border-color: #f72e2e;
+}
+.btn-primary:hover{
+	background-color: #e81b1b;
+	border-color: #f72e2e;
+}
+
+#toggle-checkbox:checked ~ div{
+	display: block !important; 
+}
+#toggle-label{
+	display: inline-block;
+	position: absolute;
+	right: 14px;
+	top: 14px;
+	font-size: 16px;
+	color: #666;
+}
+#toggle-label:hover{
+	color: #333;
+}

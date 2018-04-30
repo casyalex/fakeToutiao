@@ -11,27 +11,31 @@
 			<div class="container">
 				<div class="navbar-header">
 					<div class="navbar-brand">
-						<a href="#"><img src="img/logo.png" alt="今日头条" /></a>
+						<a href="index.html"><img src="img/logo.png" alt="今日头条" /></a>
 					</div>
 				</div>
-				<ul class="nav navbar-nav">
-					<li><a href="#">首页</a></li>
-					<li><a href="#">推荐</a></li>
-					<li><a href="#">热点</a></li>
-					<li><a href="#">图片</a></li>
-					<li><a href="#">科技</a></li>
-					<li><a href="#">娱乐</a></li>
-					<li><a href="#">游戏</a></li>
-				</ul>
-				<ul class="nav navbar-nav navbar-right">
-					<li><a href="#">登陆</a></li>
-					<li><a href="#">注册</a></li>
-				</ul>
+				<label for="toggle-checkbox" id="toggle-label" class="visible-xs-inline-block">MENU</label>
+				<input type="checkbox" id="toggle-checkbox" class="hidden"/>
+				<div class="hidden-xs">
+					<ul class="nav navbar-nav">
+						<li class="active"><a href="index.html">首页</a></li>
+						<li><a href="#">推荐</a></li>
+						<li><a href="#">热点</a></li>
+						<li><a href="#">图片</a></li>
+						<li><a href="#">科技</a></li>
+						<li><a href="#">娱乐</a></li>
+						<li><a href="#">游戏</a></li>
+					</ul>
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="login.html">登陆</a></li>
+						<li><a href="signup.html">注册</a></li>
+					</ul>
+				</div>
 			</div>
 		</nav>
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-2">
+				<div class="col-sm-2 hidden-xs">
 					<div class="list-group side-bar">
 						<a href="#" class="list-group-item active">推荐</a>
 						<a href="#" class="list-group-item">热点</a>
@@ -53,7 +57,7 @@
 								<img src="img/1524825519299a6809b9ab3.jpg"/>
 							</div>
 							<div class="col-xs-8">
-								<a href="#" class="title">
+								<a href="news.html" class="title">
 									5年间连破纪录接班天王，华晨宇的成长道路简直妖孽！
 								</a>
 								<div class="info">
@@ -276,7 +280,7 @@
 				</div>
 				<div class="col-sm-3">
 					<div class="search-bar">
-						<input type="search" class="form-control" value="搜索资讯"/>
+						<input type="search" class="form-control" placeholder="搜索资讯"/>
 					</div>
 					<div class="side-bar-card flag clearfix">
 						<div class="col-xs-5">

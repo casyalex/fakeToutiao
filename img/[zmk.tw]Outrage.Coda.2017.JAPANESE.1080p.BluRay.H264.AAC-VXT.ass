@@ -1,0 +1,1267 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZHei-B01,20,&H00FFFFFF,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,2,1,2,5,5,2,134
+Style: 本字幕首发于字幕库,FZHei-B01,20,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,5,5,2,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:11.69,0:01:12.69,Default,,0000,0000,0000,,市川!\NIchikawa!
+Dialogue: 0,0:01:12.86,0:01:13.78,Default,,0000,0000,0000,,什么?\NWhat?
+Dialogue: 0,0:01:13.99,0:01:16.28,Default,,0000,0000,0000,,比目鱼不是晩上才出来吗\NDon't flatfish come out at night?
+Dialogue: 0,0:01:17.03,0:01:19.62,Default,,0000,0000,0000,,有些也会在白天游到岸边\NSome swim up to shore in daytime.
+Dialogue: 0,0:01:19.74,0:01:21.12,Default,,0000,0000,0000,,大的那种\NBig ones.
+Dialogue: 0,0:01:22.08,0:01:26.08,Default,,0000,0000,0000,,试试看 泡菜汤 一炖好吃的很\NTry them, bro. They're great for kimchi stew.
+Dialogue: 0,0:01:26.25,0:01:27.75,Default,,0000,0000,0000,,有一次我在餐车上吃过\NI tried it in a diner.
+Dialogue: 0,0:01:28.92,0:01:31.21,Default,,0000,0000,0000,,你还是不明白\NYou really don't get it.
+Dialogue: 0,0:01:31.38,0:01:34.84,Default,,0000,0000,0000,,餐车上能给你吃好的比目鱼吗\NThey don't serve the good ones at some lousy diner.
+Dialogue: 0,0:01:35.17,0:01:37.59,Default,,0000,0000,0000,,你肯定吃的是假货\NYou ate that fake stuff.
+Dialogue: 0,0:01:37.84,0:01:39.64,Default,,0000,0000,0000,,假货的是什么意思?\NWhat do you mean fake?
+Dialogue: 0,0:01:40.51,0:01:42.47,Default,,0000,0000,0000,,我没有冒犯您的意思\NI didn't mean to offend.
+Dialogue: 0,0:01:45.06,0:01:46.73,Default,,0000,0000,0000,,你鱼饵是不是有问题?\NSomething wrong with your bait?
+Dialogue: 0,0:01:46.98,0:01:48.31,Default,,0000,0000,0000,,有可能\NCould be.
+Dialogue: 0,0:01:50.31,0:01:52.78,Default,,0000,0000,0000,,也许我可以拿你小姆指当饵\NMaybe I should use your pinky.
+Dialogue: 0,0:01:55.40,0:01:57.49,Default,,0000,0000,0000,,你可别惹我\NDon't fuck with me!
+Dialogue: 0,0:01:57.66,0:01:59.82,Default,,0000,0000,0000,,开玩笑的\NJust kidding.
+Dialogue: 0,0:02:03.87,0:02:05.50,Default,,0000,0000,0000,,怎么回事?\NWhat the hell?
+Dialogue: 0,0:02:05.66,0:02:06.46,Default,,0000,0000,0000,,对不起\NSorry!
+Dialogue: 0,0:02:06.58,0:02:09.33,Default,,0000,0000,0000,,有人忘在办公室了我就拿来了\NSomeone left it in the office, so I took it.
+Dialogue: 0,0:02:09.46,0:02:11.42,Default,,0000,0000,0000,,别带到这儿来 蠢货!\NDon't bring it here, dumb-ass.
+Dialogue: 0,0:02:11.71,0:02:12.63,Default,,0000,0000,0000,,对不起\NSorry.
+Dialogue: 0,0:02:12.80,0:02:14.34,Default,,0000,0000,0000,,太他妈 危险了!\NDamned dangerous!
+Dialogue: 0,0:02:37.90,0:02:39.11,Default,,0000,0000,0000,,臭婊子!\NBitch!
+Dialogue: 0,0:02:39.24,0:02:40.28,Default,,0000,0000,0000,,臭婊子?\NBitch?
+Dialogue: 0,0:02:40.41,0:02:42.62,Default,,0000,0000,0000,,你这个荡妇 !\NYou slut!
+Dialogue: 0,0:02:42.95,0:02:44.12,Default,,0000,0000,0000,,你个臭不要脸的!\NWhore!
+Dialogue: 0,0:02:47.37,0:02:48.25,Default,,0000,0000,0000,,转过身\NTurn around.
+Dialogue: 0,0:02:52.92,0:02:53.96,Default,,0000,0000,0000,,这是什么?\NWhat are these?
+Dialogue: 0,0:02:54.96,0:02:57.72,Default,,0000,0000,0000,,你还有钱混蛋\NYou have money, asshole.
+Dialogue: 0,0:04:05.95,0:04:06.95,Default,,0000,0000,0000,,下一个该你了\NYou're next, Yoo Hee.
+Dialogue: 0,0:04:20.46,0:04:23.38,Default,,0000,0000,0000,,生意不太好是吧\NBusiness is slow, huh?
+Dialogue: 0,0:04:30.39,0:04:32.31,Default,,0000,0000,0000,,他在抱怨我们的姑娘\NHe's complaining about our girls.
+Dialogue: 0,0:04:33.14,0:04:34.10,Default,,0000,0000,0000,,过来一趟\NCome over.
+Dialogue: 0,0:04:36.81,0:04:38.40,Default,,0000,0000,0000,,好 马上就来\NOkay, in a second.
+Dialogue: 0,0:04:40.32,0:04:44.53,Default,,0000,0000,0000,,有个日本黑社会的在投诉 要见老板\NA Japanese yakuza is complaining. He's asking for the boss.
+Dialogue: 0,0:04:44.66,0:04:46.78,Default,,0000,0000,0000,,黑社会的? -是的\NYakuza? Yes.
+Dialogue: 0,0:04:47.16,0:04:50.33,Default,,0000,0000,0000,,在哪儿? -太阳度假酒店\NWhere? Taehang Resort Hotel.
+Dialogue: 0,0:05:29.62,0:05:30.66,Default,,0000,0000,0000,,这边请\NThis way.
+Dialogue: 0,0:05:37.96,0:05:41.21,Default,,0000,0000,0000,,你们两个没用的臭婊子\NYou useless bitches!
+Dialogue: 0,0:05:41.46,0:05:43.71,Default,,0000,0000,0000,,老板要拿我撒气了\NHe'll take it out on me.
+Dialogue: 0,0:05:48.26,0:05:49.14,Default,,0000,0000,0000,,你们没事吧?\NYou alright?
+Dialogue: 0,0:05:49.26,0:05:52.81,Default,,0000,0000,0000,,他提出变态的要求 我们不同意他就打我们\NHe wanted sick stuff. We said no, so he hit us.
+Dialogue: 0,0:05:53.39,0:05:54.98,Default,,0000,0000,0000,,有什么问题?\NWhat's the problem?
+Dialogue: 0,0:05:56.14,0:05:58.81,Default,,0000,0000,0000,,你们这两个婊子哭丧个脸\NYour bitches are pathetic.
+Dialogue: 0,0:05:59.56,0:06:01.90,Default,,0000,0000,0000,,我老板很生气\NOur boss is angry.
+Dialogue: 0,0:06:02.19,0:06:04.32,Default,,0000,0000,0000,,他说了不会付钱的\NHe says he won't pay.
+Dialogue: 0,0:06:05.32,0:06:07.20,Default,,0000,0000,0000,,你老板在哪儿?\NWhere's your boss?
+Dialogue: 0,0:06:08.95,0:06:10.45,Default,,0000,0000,0000,,在卧室\NIn the bedroom.
+Dialogue: 0,0:06:17.04,0:06:19.75,Default,,0000,0000,0000,,你对我们姑娘有什么问题?\NWhat's your problem with our girls?
+Dialogue: 0,0:06:19.96,0:06:22.29,Default,,0000,0000,0000,,我有问题?你个傻帽\NMy problem? You idiot.
+Dialogue: 0,0:06:22.42,0:06:25.05,Default,,0000,0000,0000,,你们这些鸡太差劲了\NYour bitches are lame.
+Dialogue: 0,0:06:25.51,0:06:29.30,Default,,0000,0000,0000,,得好好培训! 一点情趣都不懂\NThey need training! They're no fun at all.
+Dialogue: 0,0:06:34.68,0:06:37.10,Default,,0000,0000,0000,,看起来你很有情趣\NLooks like you had fun.
+Dialogue: 0,0:06:37.23,0:06:39.23,Default,,0000,0000,0000,,别在这跟我扯皮l\NDon't fuck with me!
+Dialogue: 0,0:06:39.40,0:06:41.90,Default,,0000,0000,0000,,我可不是在跟你扯皮!\NI'm not fucking with you!
+Dialogue: 0,0:06:42.27,0:06:45.48,Default,,0000,0000,0000,,你弄伤了我们的姑娘 我们要求赔偿\NI'm demanding compensation for hurting our girls.
+Dialogue: 0,0:06:46.61,0:06:48.57,Default,,0000,0000,0000,,你知道我是谁吗?\NYou know who I am?
+Dialogue: 0,0:06:48.70,0:06:51.53,Default,,0000,0000,0000,,我是花菱组的花田\NI'm Hanada of the Hanabishi family.
+Dialogue: 0,0:06:52.28,0:06:55.04,Default,,0000,0000,0000,,你这是要跟花菱组作对吗?\NYou want trouble with the Hanabishi?
+Dialogue: 0,0:06:55.16,0:06:56.37,Default,,0000,0000,0000,,听着…\NListen...
+Dialogue: 0,0:06:56.75,0:06:59.25,Default,,0000,0000,0000,,我还有个结拜的兄弟在首尔\NI even got a sworn brother in Seoul.
+Dialogue: 0,0:06:59.37,0:07:00.62,Default,,0000,0000,0000,,混蛋!\NAsshole!
+Dialogue: 0,0:07:00.75,0:07:04.09,Default,,0000,0000,0000,,你现在不是在首尔 这里是济州岛\NYou're not in Seoul. This is Jeju Island.
+Dialogue: 0,0:07:04.46,0:07:07.05,Default,,0000,0000,0000,,别跟我吹什么花菱组的屁话了\NDrop the Hanabishi crap.
+Dialogue: 0,0:07:07.46,0:07:09.13,Default,,0000,0000,0000,,有胆子就来吧!\NBring it on!
+Dialogue: 0,0:07:17.10,0:07:18.14,Default,,0000,0000,0000,,别激动\NRelax.
+Dialogue: 0,0:07:19.27,0:07:21.90,Default,,0000,0000,0000,,我来是玩的\NI just came to have some fun.
+Dialogue: 0,0:07:22.27,0:07:23.69,Default,,0000,0000,0000,,没必要吵\NNo need to quarrel.
+Dialogue: 0,0:07:23.90,0:07:26.48,Default,,0000,0000,0000,,是你挑起来的\NYou're the one asking for it.
+Dialogue: 0,0:07:26.86,0:07:28.99,Default,,0000,0000,0000,,你想怎么解决 蠢货?\NHow will you settle up, asshole?
+Dialogue: 0,0:07:29.74,0:07:33.20,Default,,0000,0000,0000,,我身上没带现金\NI don't have cash on me right now.
+Dialogue: 0,0:07:34.49,0:07:37.08,Default,,0000,0000,0000,,你明天中午过来\NYou can come tomorrow at noon.
+Dialogue: 0,0:07:37.74,0:07:39.04,Default,,0000,0000,0000,,你能付多少钱?\NHow much can you pay?
+Dialogue: 0,0:07:42.92,0:07:44.08,Default,,0000,0000,0000,,两百万\NTwo million.
+Dialogue: 0,0:07:44.21,0:07:45.71,Default,,0000,0000,0000,,你不是说的韩元吧\NYou can't mean Korean won.
+Dialogue: 0,0:07:45.84,0:07:48.01,Default,,0000,0000,0000,,不是要两百万日元吧!那也太高谱了!\NNot two million yen! That's outrageous!
+Dialogue: 0,0:07:48.13,0:07:49.26,Default,,0000,0000,0000,,你看…\NLook...
+Dialogue: 0,0:07:50.42,0:07:53.34,Default,,0000,0000,0000,,想想你之前干的事情再说\NThink about what you did before blurting out a sum.
+Dialogue: 0,0:07:53.76,0:07:57.85,Default,,0000,0000,0000,,我能把你脸剁碎了喂鱼\NI'll mince your face and use it as bait!
+Dialogue: 0,0:07:59.77,0:08:01.52,Default,,0000,0000,0000,,好的 好的\NOkay, Okay.
+Dialogue: 0,0:08:01.73,0:08:04.02,Default,,0000,0000,0000,,给你两百万日元\NYou'll get your Japanese yen.\N本字幕首发于字幕库 www.zimuku.cn
+Dialogue: 0,0:08:08.57,0:08:11.70,Default,,0000,0000,0000,,额…你叫什么名字老弟?\NSay... What's your name, buddy?
+Dialogue: 0,0:08:12.65,0:08:13.70,Default,,0000,0000,0000,,你是日本人?\NYou Japanese?
+Dialogue: 0,0:08:13.86,0:08:16.16,Default,,0000,0000,0000,,我名字叫滚开\NMy name is Fuck Off.
+Dialogue: 0,0:08:16.37,0:08:17.66,Default,,0000,0000,0000,,听到了吗 ?\NGot that?
+Dialogue: 0,0:08:18.04,0:08:18.95,Default,,0000,0000,0000,,钱一次付清!\NPay up!
+Dialogue: 0,0:08:20.00,0:08:21.87,Default,,0000,0000,0000,,给那个人\NTo that guy.
+Dialogue: 0,0:08:36.35,0:08:37.51,Default,,0000,0000,0000,,嗨\NHey.
+Dialogue: 0,0:08:39.64,0:08:43.10,Default,,0000,0000,0000,,没用的保標!\NUseless bodyguards!
+Dialogue: 0,0:08:43.81,0:08:44.90,Default,,0000,0000,0000,,对不起\NSorry.
+Dialogue: 0,0:08:46.52,0:08:49.65,Default,,0000,0000,0000,,他们刚才那样羞辱我 你们两个在干嘛?\NThey humiliated me. And you two?
+Dialogue: 0,0:08:49.98,0:08:51.90,Default,,0000,0000,0000,,你们眼睁睁站在那里看着\NYou stood there and watched!
+Dialogue: 0,0:08:52.03,0:08:53.24,Default,,0000,0000,0000,,对不起先生\NSorry, sir.
+Dialogue: 0,0:08:56.41,0:08:58.53,Default,,0000,0000,0000,,我明天早上离开\NI'm leaving in the morning.
+Dialogue: 0,0:08:58.91,0:09:02.08,Default,,0000,0000,0000,,事情你们处理 -钱从哪儿来?\NTake care of this. With what money?
+Dialogue: 0,0:09:02.62,0:09:03.83,Default,,0000,0000,0000,,蠢货!\NDumbass!
+Dialogue: 0,0:09:04.29,0:09:06.75,Default,,0000,0000,0000,,我们不会给那些杂种付钱的\NWe won't pay that bastard.
+Dialogue: 0,0:09:07.17,0:09:09.09,Default,,0000,0000,0000,,要是他敢找茬\NIf he makes a fuss,
+Dialogue: 0,0:09:09.25,0:09:10.38,Default,,0000,0000,0000,,就干掉他\Nkill him!
+Dialogue: 0,0:09:11.46,0:09:12.55,Default,,0000,0000,0000,,是的先生\NYes, sir.
+Dialogue: 0,0:09:57.76,0:09:58.93,Default,,0000,0000,0000,,中田…\NNakata...
+Dialogue: 0,0:10:00.05,0:10:01.72,Default,,0000,0000,0000,,花田在哪儿?\NWhere's Hanada?
+Dialogue: 0,0:10:02.47,0:10:03.64,Default,,0000,0000,0000,,他迟到了?\NIs he late?
+Dialogue: 0,0:10:03.81,0:10:04.98,Default,,0000,0000,0000,,西野若头\NUnderboss Nishino,
+Dialogue: 0,0:10:05.14,0:10:08.60,Default,,0000,0000,0000,,他在韩国处理紧急事务\Nhe's in Korea on urgent business.
+Dialogue: 0,0:10:10.02,0:10:13.78,Default,,0000,0000,0000,,例会他肯定回来参加\NHe's due back for the regular meeting.
+Dialogue: 0,0:10:14.99,0:10:16.49,Default,,0000,0000,0000,,什么事务\NBusiness?
+Dialogue: 0,0:10:18.78,0:10:21.16,Default,,0000,0000,0000,,他的正经事就是坐这儿来开会!\NHis business is to get his butt here!
+Dialogue: 0,0:10:21.28,0:10:25.79,Default,,0000,0000,0000,,我跟他说过了他说机会难得\NI told him. He said the offer was too good.
+Dialogue: 0,0:10:26.41,0:10:30.33,Default,,0000,0000,0000,,这是他留给野村组长的\NHe left this for Chairman Nomura.
+Dialogue: 0,0:10:42.05,0:10:46.93,Default,,0000,0000,0000,,别想越过我去拍野村先生的马屁\NDon't go over my head to gain Mr. Nomura's favors.
+Dialogue: 0,0:10:47.43,0:10:51.52,Default,,0000,0000,0000,,这种事你必须先向我汇报\NYou must report first to me on these matters.
+Dialogue: 0,0:10:51.69,0:10:53.32,Default,,0000,0000,0000,,我道歉\NMy apologies.
+Dialogue: 0,0:10:53.90,0:10:56.07,Default,,0000,0000,0000,,我们没有这个意思\NThat's not what we meant.
+Dialogue: 0,0:10:56.44,0:10:58.03,Default,,0000,0000,0000,,算了吧\NForget it.
+Dialogue: 0,0:10:58.86,0:11:01.70,Default,,0000,0000,0000,,我以后会跟他解释的\NI'll explain it to him later.
+Dialogue: 0,0:11:01.82,0:11:03.53,Default,,0000,0000,0000,,谢谢\NI appreciate it.
+Dialogue: 0,0:11:04.28,0:11:06.08,Default,,0000,0000,0000,,下午好先生\NGood afternoon, sir.
+Dialogue: 0,0:11:09.79,0:11:12.29,Default,,0000,0000,0000,,野村怎么回事?\NWhat's with Mr. Nomura?
+Dialogue: 0,0:11:13.04,0:11:16.17,Default,,0000,0000,0000,,怎么总是要跟人会谈?\NAnd his constant meetings?
+Dialogue: 0,0:11:17.88,0:11:20.22,Default,,0000,0000,0000,,这个月都几次了?\NHow many this month?
+Dialogue: 0,0:11:20.34,0:11:25.97,Default,,0000,0000,0000,,他是个生意人 没有会谈不自在\NHe was a trader. He's uncomfortable without meetings.
+Dialogue: 0,0:11:26.39,0:11:28.81,Default,,0000,0000,0000,,为什么他是接班人?\NWhy should he be successor?
+Dialogue: 0,0:11:28.93,0:11:32.40,Default,,0000,0000,0000,,就算他是前任组长的女婿又怎么样!\NSo what if he's the ex-boss' son-in-law!
+Dialogue: 0,0:11:33.94,0:11:39.24,Default,,0000,0000,0000,,说什么只有会花钱才能赚到更多的钱\NHe says spending is the only way to make more money.
+Dialogue: 0,0:11:40.32,0:11:41.99,Default,,0000,0000,0000,,他给我们带来了巨大的损失\NHe's causing huge losses!
+Dialogue: 0,0:11:42.11,0:11:45.08,Default,,0000,0000,0000,,兄弟你说话声音太大了\NBrother, you're talking too loud.
+Dialogue: 0,0:11:45.99,0:11:47.62,Default,,0000,0000,0000,,我才不在乎呢\NI don't give a shit.
+Dialogue: 0,0:11:49.45,0:11:52.42,Default,,0000,0000,0000,,我不会允许那家伙胡来的\NI won't allow what's-his-name
+Dialogue: 0,0:11:53.38,0:11:56.04,Default,,0000,0000,0000,,好像这是他的地盘一样\Nto act like he owns this place!
+Dialogue: 0,0:12:15.52,0:12:17.19,Default,,0000,0000,0000,,还有件事中田\NOne more thing, Nakata.
+Dialogue: 0,0:12:18.44,0:12:22.28,Default,,0000,0000,0000,,你每个月都从花田那边拿到不少的钱\NYou receive a lot of money from Hanada every month,
+Dialogue: 0,0:12:22.40,0:12:24.45,Default,,0000,0000,0000,,是不是这样?\Nisn't that right?
+Dialogue: 0,0:12:24.74,0:12:27.33,Default,,0000,0000,0000,,没有我一分也没拿到\NNo, I'm not getting any.
+Dialogue: 0,0:12:27.62,0:12:33.37,Default,,0000,0000,0000,,要不是你把他介绍给野村\NWithout your recommendation to Mr. Nomura,
+Dialogue: 0,0:12:34.33,0:12:39.00,Default,,0000,0000,0000,,花田根本不可能有自己的组\NHanada would never have his own family.
+Dialogue: 0,0:12:39.17,0:12:43.09,Default,,0000,0000,0000,,他就不会毛遂自荐过去吗 ?\NCouldn't he have appealed to him in person?
+Dialogue: 0,0:12:43.43,0:12:45.14,Default,,0000,0000,0000,,靠钱吗?\NWith money?
+Dialogue: 0,0:12:45.59,0:12:47.97,Default,,0000,0000,0000,,他的生意发展的很快\NHis business is thriving.
+Dialogue: 0,0:12:48.56,0:12:53.06,Default,,0000,0000,0000,,高利贷 贩毒 只要赚钱他什么都干\NLoansharking to meth dealing, he does whatever makes money.
+Dialogue: 0,0:12:53.60,0:12:56.56,Default,,0000,0000,0000,,暴徒不行了他就招了一帮摩托党\NHe recruits biker gangs to avoid mob busts.
+Dialogue: 0,0:12:56.69,0:13:00.48,Default,,0000,0000,0000,,警局他也有路子\NHe uses police connections at his convenience.
+Dialogue: 0,0:13:01.19,0:13:03.15,Default,,0000,0000,0000,,他干的很不错\NHe's quite impressive.
+Dialogue: 0,0:13:05.57,0:13:09.91,Default,,0000,0000,0000,,他从韩国弄的毒是吗?\NHe gets the meth in Korea, right?
+Dialogue: 0,0:13:10.29,0:13:14.04,Default,,0000,0000,0000,,前组长禁止他搞毒品\NThe ex-boss prohibited meth.
+Dialogue: 0,0:13:14.16,0:13:15.62,Default,,0000,0000,0000,,野村呢?\NAnd Mr. Nomura?
+Dialogue: 0,0:13:15.79,0:13:18.00,Default,,0000,0000,0000,,他不干涉…\NHe wouldn't interfere...
+Dialogue: 0,0:13:18.42,0:13:20.21,Default,,0000,0000,0000,,只要价格合适!\Nif the price was right!
+Dialogue: 0,0:13:24.13,0:13:25.01,Default,,0000,0000,0000,,是的\NYeah.
+Dialogue: 0,0:13:26.30,0:13:27.43,Default,,0000,0000,0000,,抱歉\NExcuse me.
+Dialogue: 0,0:13:29.35,0:13:30.68,Default,,0000,0000,0000,,人都到了\NEveryone's here.
+Dialogue: 0,0:13:30.81,0:13:31.89,Default,,0000,0000,0000,,很好\NFine.
+Dialogue: 0,0:13:48.95,0:13:50.28,Default,,0000,0000,0000,,都坐下吧\NRemain seated.
+Dialogue: 0,0:13:57.75,0:13:59.96,Default,,0000,0000,0000,,这个月有些什么事情?\NAnything happen this month?
+Dialogue: 0,0:14:00.13,0:14:02.55,Default,,0000,0000,0000,,没什么特别的\NNothing unusual.
+Dialogue: 0,0:14:03.67,0:14:09.30,Default,,0000,0000,0000,,没什么特别的\NSawamura will remain hospitalized for another couple months.
+Dialogue: 0,0:14:09.89,0:14:13.72,Default,,0000,0000,0000,,我们有个叫河野的干部\NWe have an executive named Kono...
+Dialogue: 0,0:14:13.89,0:14:17.94,Default,,0000,0000,0000,,他这个月出狱\NHe'll be released from prison soon.
+Dialogue: 0,0:14:18.69,0:14:23.19,Default,,0000,0000,0000,,很好我希望每个组准备一份现金恭贺一下\NFine. I expect each family to prepare a cash gift.
+Dialogue: 0,0:14:23.32,0:14:26.53,Default,,0000,0000,0000,,干部出狱都得大方点\NAn exec's release calls for significant contributions.
+Dialogue: 0,0:14:26.65,0:14:28.53,Default,,0000,0000,0000,,别太小气搞得自己很难看\NDon't embarrass yourselves.
+Dialogue: 0,0:14:28.66,0:14:29.91,Default,,0000,0000,0000,,是的先生\NYes, sir.
+Dialogue: 0,0:14:30.07,0:14:32.41,Default,,0000,0000,0000,,你觉得你是个了不起的黑社会 ?\NYou think you're big yakuza?
+Dialogue: 0,0:14:32.53,0:14:35.25,Default,,0000,0000,0000,,光会吹牛是不会来钱的\NBragging won't boost your income.
+Dialogue: 0,0:14:35.58,0:14:38.04,Default,,0000,0000,0000,,是谁跟警察和政府的人打交道\NWho dealt with the Security Police
+Dialogue: 0,0:14:38.21,0:14:41.13,Default,,0000,0000,0000,,重建了这个组?\Nand the government to rebuild this family?
+Dialogue: 0,0:14:41.54,0:14:44.50,Default,,0000,0000,0000,,中田花田在哪儿?\NNakata, where's Hanada?
+Dialogue: 0,0:14:44.67,0:14:49.09,Default,,0000,0000,0000,,我跟若头说了 他在韩国处理紧急事务\NAs I told Underboss, he's in Korea on urgent business.
+Dialogue: 0,0:14:49.22,0:14:51.43,Default,,0000,0000,0000,,他知道我要来还外出?\NHe travelled, knowing I was here?
+Dialogue: 0,0:14:51.55,0:14:55.47,Default,,0000,0000,0000,,例会上你们都要向我汇报我是你们的组长\NYou all report to me, your Chairman, at these regular meetings!
+Dialogue: 0,0:14:55.60,0:14:56.77,Default,,0000,0000,0000,,是\NYes.
+Dialogue: 0,0:14:57.48,0:15:02.65,Default,,0000,0000,0000,,要是前组长在他肯定不会外出的\NHe surely would have been here for the former boss.
+Dialogue: 0,0:15:02.77,0:15:04.11,Default,,0000,0000,0000,,你什么意思?\NWhat do you mean?
+Dialogue: 0,0:15:06.28,0:15:08.40,Default,,0000,0000,0000,,就是我说的意思\NI mean exactly what I said.
+Dialogue: 0,0:15:08.53,0:15:10.95,Default,,0000,0000,0000,,西野你可别惹我\NDon't fuck with me, Nishino.
+Dialogue: 0,0:15:11.20,0:15:15.87,Default,,0000,0000,0000,,你那帮人花钱像流水赚钱屁本事没有\NYour lot spends money like water and knows nothing about making it.
+Dialogue: 0,0:15:16.04,0:15:18.33,Default,,0000,0000,0000,,我为这个组呕心沥血\NI sweat blood for this family!
+Dialogue: 0,0:15:18.46,0:15:20.29,Default,,0000,0000,0000,,动动你的猪脑子!\NUse your fucking brain!
+Dialogue: 0,0:15:26.05,0:15:29.88,Default,,0000,0000,0000,,那个傲慢的西野一有机会就藐视我\NThat arrogant Nishino defies me every chance he gets.
+Dialogue: 0,0:15:30.01,0:15:32.30,Default,,0000,0000,0000,,他是叫人头疼\NHe can be a pain in the ass.
+Dialogue: 0,0:15:32.93,0:15:34.97,Default,,0000,0000,0000,,有没有可能降了他的级 ?\NAny possibility to demote him?
+Dialogue: 0,0:15:35.14,0:15:39.27,Default,,0000,0000,0000,,可以让中田或者花田替换掉西野\NNishino could be replaced by Nakata or Hanada.
+Dialogue: 0,0:15:39.43,0:15:43.15,Default,,0000,0000,0000,,不过西野那帮手下不会坐视不管的\NBut Nishino's loyal supporters won't take it lying down.
+Dialogue: 0,0:15:43.27,0:15:45.65,Default,,0000,0000,0000,,那么我们就选中田做新会长\NThen we choose Nakata as a new boss.
+Dialogue: 0,0:15:45.77,0:15:47.94,Default,,0000,0000,0000,,让他去和西野斗\NLet him fight Nishino.
+Dialogue: 0,0:15:48.07,0:15:52.36,Default,,0000,0000,0000,,这样我们一石二鸟\NWe'll get rid of two old farts with one blow.
+Dialogue: 0,0:16:05.04,0:16:06.25,Default,,0000,0000,0000,,大哥\NBrother,
+Dialogue: 0,0:16:06.84,0:16:09.01,Default,,0000,0000,0000,,就这么算了吗?\Nwon't you do anything?
+Dialogue: 0,0:16:11.22,0:16:13.01,Default,,0000,0000,0000,,他特妈的死了\NHe's fucking dead.
+Dialogue: 0,0:16:15.35,0:16:17.01,Default,,0000,0000,0000,,你要怎么办?\NWhat will you do?
+Dialogue: 0,0:16:17.51,0:16:20.39,Default,,0000,0000,0000,,我正在考虑 蠢货!\NI'm busy thinking, dumb-ass!
+Dialogue: 0,0:16:42.91,0:16:44.21,Default,,0000,0000,0000,,这怎么回事?\NWhat's that about?
+Dialogue: 0,0:16:44.79,0:16:46.33,Default,,0000,0000,0000,,韩国明星吗?\NSome Korean star?
+Dialogue: 0,0:16:46.46,0:16:48.88,Default,,0000,0000,0000,,对不起我刚染了头发\NSorry. I just dyed my hair.
+Dialogue: 0,0:16:54.59,0:17:00.06,Default,,0000,0000,0000,,有个日本黑道的人找在 我们死了个兄弟\NThere was trouble with a Japanese yakuza. We lost a man.
+Dialogue: 0,0:17:00.89,0:17:03.77,Default,,0000,0000,0000,,大友先生想要报仇\NMr. Otomo wants to return.
+Dialogue: 0,0:17:03.89,0:17:07.73,Default,,0000,0000,0000,,你们自己想办法解决别动粗\NWork it out amongst yourselves. Solve it peacefully.
+Dialogue: 0,0:17:07.86,0:17:10.82,Default,,0000,0000,0000,,告诉大友别给我们惹麻烦\NTell Otomo to spare us any trouble.
+Dialogue: 0,0:17:10.94,0:17:12.07,Default,,0000,0000,0000,,是\NYes.
+Dialogue: 0,0:17:14.53,0:17:18.91,Default,,0000,0000,0000,,我们一个若众用冰镐把那家伙据死了\NOur soldiers stabbed the guy to death with an ice pick.
+Dialogue: 0,0:17:19.12,0:17:21.04,Default,,0000,0000,0000,,尸体扔到沙滩上了\NThey dumped him on the beach.
+Dialogue: 0,0:17:21.16,0:17:24.54,Default,,0000,0000,0000,,扔了?要是引起帮派斗争怎么办?\NDumped? What if this turns into war?
+Dialogue: 0,0:17:25.46,0:17:26.33,Default,,0000,0000,0000,,是啊\NYeah.
+Dialogue: 0,0:17:27.46,0:17:29.88,Default,,0000,0000,0000,,我不知道济州岛还有黑社会\NI don't know any yakuza in Jeju.
+Dialogue: 0,0:17:32.34,0:17:33.92,Default,,0000,0000,0000,,嗨 老枪\NHey, Gun.
+Dialogue: 0,0:17:34.13,0:17:34.92,Default,,0000,0000,0000,,什么?\NYes?
+Dialogue: 0,0:17:36.05,0:17:37.34,Default,,0000,0000,0000,,丸山!\NMaruyama!
+Dialogue: 0,0:17:38.18,0:17:40.10,Default,,0000,0000,0000,,你他妈在干什么?\NWhat the hell are you doing?
+Dialogue: 0,0:17:41.26,0:17:43.39,Default,,0000,0000,0000,,我在吃院文考\NI'm eating barbecue.
+Dialogue: 0,0:17:43.56,0:17:47.10,Default,,0000,0000,0000,,你是不是傻?我跟你说了在外面等着!\NAre you stupid? I told you to wait outside!
+Dialogue: 0,0:17:48.23,0:17:49.52,Default,,0000,0000,0000,,对不起先生\NSorry, sir.
+Dialogue: 0,0:17:54.32,0:17:57.11,Default,,0000,0000,0000,,我招他来参加摩托党的\NI recruited him from a biker gang.
+Dialogue: 0,0:17:57.24,0:17:59.24,Default,,0000,0000,0000,,谁知这家伙是个蠢蛋\NBut he's a butthead.
+Dialogue: 0,0:18:00.78,0:18:02.79,Default,,0000,0000,0000,,给您的 酒馆送您的\NFor you, compliments of the house.
+Dialogue: 0,0:18:02.91,0:18:04.37,Default,,0000,0000,0000,,非常感谢\NThanks a lot as always.
+Dialogue: 0,0:18:04.54,0:18:07.42,Default,,0000,0000,0000,,不用谢我们欠您太多先生\NYou're welcome. We owe you so much, sir.
+Dialogue: 0,0:18:07.58,0:18:10.92,Default,,0000,0000,0000,,请随时光临我们的酒吧 白天都营业的\NPlease drop by our bar. It's open during the day.
+Dialogue: 0,0:18:12.09,0:18:15.55,Default,,0000,0000,0000,,恩你不是从济州岛来的吗 ?\NSay, aren't you from Jeju Island?
+Dialogue: 0,0:18:15.72,0:18:16.72,Default,,0000,0000,0000,,是的\NYes.
+Dialogue: 0,0:18:17.01,0:18:21.60,Default,,0000,0000,0000,,济州岛的酒店和赌场谁操控的 ?\NWho controls the hotels and casinos in Jeju?
+Dialogue: 0,0:18:21.76,0:18:25.14,Default,,0000,0000,0000,,那是张组长的地盘\NThat's the turf of Chairman Chang.
+Dialogue: 0,0:18:25.27,0:18:27.81,Default,,0000,0000,0000,,他有个拜把子兄弟尹也在那一带混\NHis sworn brother Yoon is also there.
+Dialogue: 0,0:18:28.23,0:18:29.94,Default,,0000,0000,0000,,张组长?\NChairman Chang?
+Dialogue: 0,0:18:30.94,0:18:32.15,Default,,0000,0000,0000,,东京的?\NOf Tokyo?
+Dialogue: 0,0:18:32.27,0:18:35.15,Default,,0000,0000,0000,,是的 最开始他是从济州岛出去的\NYes. He's originally from Jeju.
+Dialogue: 0,0:18:35.28,0:18:36.61,Default,,0000,0000,0000,,那边出什么事了?\NSomething happen there?
+Dialogue: 0,0:18:36.74,0:18:38.91,Default,,0000,0000,0000,,没什么你可以走了\NNothing. You're excused.
+Dialogue: 0,0:18:44.12,0:18:45.83,Default,,0000,0000,0000,,该死\NDammit.
+Dialogue: 0,0:18:47.33,0:18:48.83,Default,,0000,0000,0000,,你麻烦大了\NYou messed up.
+Dialogue: 0,0:18:49.33,0:18:51.50,Default,,0000,0000,0000,,你惹错人了\NYou picked the wrong fight.
+Dialogue: 0,0:18:52.54,0:18:57.84,Default,,0000,0000,0000,,张组长在日本和韩国都是个有影响的人物\NChang is an influential figure in both Japan and Korea.
+Dialogue: 0,0:18:59.80,0:19:04.43,Default,,0000,0000,0000,,你在酒店吵架的那个…\NYour argument in the hotel...
+Dialogue: 0,0:19:04.56,0:19:06.52,Default,,0000,0000,0000,,那人是不是叫大友?\NWas the guy named Otomo?
+Dialogue: 0,0:19:08.27,0:19:10.60,Default,,0000,0000,0000,,我…我真的不知道\NWell... I really don't know.
+Dialogue: 0,0:19:10.98,0:19:13.61,Default,,0000,0000,0000,,他杀了那个叫片岗的条子\NHe killed that cop Kataoka.
+Dialogue: 0,0:19:13.73,0:19:16.53,Default,,0000,0000,0000,,据说就在葬礼举办现场旁边\NRight by the funeral site, they say.
+Dialogue: 0,0:19:16.65,0:19:19.36,Default,,0000,0000,0000,,我想肯定是张组长罩着他\NI think Chang gave him shelter.
+Dialogue: 0,0:19:20.49,0:19:23.53,Default,,0000,0000,0000,,那你觉得我该怎么办?\NSo what do you think I should do?
+Dialogue: 0,0:19:24.41,0:19:28.29,Default,,0000,0000,0000,,话要是传到野村或是西野那儿\NSay one word to cross Nomura and Nishino,
+Dialogue: 0,0:19:28.75,0:19:30.46,Default,,0000,0000,0000,,你就死定了\Nyou'll be dead.
+Dialogue: 0,0:19:32.38,0:19:33.46,Default,,0000,0000,0000,,听着\NListen.
+Dialogue: 0,0:19:33.63,0:19:36.92,Default,,0000,0000,0000,,我要去东京张组长的办公室拜访一下\NI'll go to Tokyo and visit Chang's office
+Dialogue: 0,0:19:37.05,0:19:38.72,Default,,0000,0000,0000,,向他道歉\Nto apologize.
+Dialogue: 0,0:19:39.22,0:19:40.63,Default,,0000,0000,0000,,给我准备点钱\NPrepare some money.
+Dialogue: 0,0:19:42.18,0:19:44.22,Default,,0000,0000,0000,,准备多少?\NHow much should I prepare?
+Dialogue: 0,0:19:45.72,0:19:48.73,Default,,0000,0000,0000,,两千万到三千万日元\N20 to 30 million yen, as condolences.
+Dialogue: 0,0:19:48.89,0:19:50.73,Default,,0000,0000,0000,,你杀了那个家伙\NYou did kill a guy.
+Dialogue: 0,0:19:52.85,0:19:54.31,Default,,0000,0000,0000,,这么多?\NThat much?
+Dialogue: 0,0:19:54.48,0:19:55.69,Default,,0000,0000,0000,,傻叉!\NIdiot!
+Dialogue: 0,0:19:56.11,0:19:58.32,Default,,0000,0000,0000,,张已经那么有钱了\NChang's got shitloads of money.
+Dialogue: 0,0:19:59.03,0:20:01.53,Default,,0000,0000,0000,,有礼貌一点\NRespond in a sincere manner,
+Dialogue: 0,0:20:01.65,0:20:03.24,Default,,0000,0000,0000,,他会明白的\Nhe'll understand.
+Dialogue: 0,0:20:05.03,0:20:08.12,Default,,0000,0000,0000,,对他们来说不过是少了个讨厌的废物 - 是的\NAll they lost is one lousy punk. Yeah.
+Dialogue: 0,0:20:14.54,0:20:17.34,Default,,0000,0000,0000,,是花菱组?发生什么事了?\NThe Hanabishi? Is something going on?
+Dialogue: 0,0:20:17.55,0:20:19.46,Default,,0000,0000,0000,,有点事\NKind of.
+Dialogue: 0,0:20:20.51,0:20:24.14,Default,,0000,0000,0000,,中田和花田正在商量…\NNakata and Hanada are talking...
+Dialogue: 0,0:20:24.68,0:20:26.68,Default,,0000,0000,0000,,要去找张先生道歉\Nabout apologizing to Mr. Chang.
+Dialogue: 0,0:20:27.51,0:20:30.85,Default,,0000,0000,0000,,真的?谢谢你的消息 老枪\NReally? Thanks for the tip, Gun.
+Dialogue: 0,0:20:32.39,0:20:34.10,Default,,0000,0000,0000,,尹夫人还好吗?\NIs Mrs. Yoon alright?
+Dialogue: 0,0:20:35.81,0:20:38.44,Default,,0000,0000,0000,,她两天前去世了\NShe passed away two days ago.
+Dialogue: 0,0:20:39.94,0:20:42.45,Default,,0000,0000,0000,,我去葬礼上献花\NI sent flowers for the funeral.
+Dialogue: 0,0:20:42.57,0:20:44.24,Default,,0000,0000,0000,,看到…\NI see...
+Dialogue: 0,0:20:44.99,0:20:48.79,Default,,0000,0000,0000,,只有那些和尹先生关系近的人被通知了\NOnly those close to Mr. Yoon were contacted.
+Dialogue: 0,0:20:48.91,0:20:50.87,Default,,0000,0000,0000,,这消息我会告诉张先生的\NI'll inform Mr. Chang.
+Dialogue: 0,0:20:51.00,0:20:52.12,Default,,0000,0000,0000,,好的\NFine.
+Dialogue: 0,0:20:56.88,0:20:58.13,Default,,0000,0000,0000,,李先生?\NMr. Lee?
+Dialogue: 0,0:20:58.88,0:20:59.80,Default,,0000,0000,0000,,怎么了?\NWhat?
+Dialogue: 0,0:20:59.92,0:21:03.47,Default,,0000,0000,0000,,花菱组的人准备过来跟我们道歉\NThe Hanabishi will visit us to apologize.
+Dialogue: 0,0:21:04.51,0:21:05.97,Default,,0000,0000,0000,,我们怎么办?\NWhat do we do?
+Dialogue: 0,0:21:07.35,0:21:09.43,Default,,0000,0000,0000,,看看他们打算怎么做吧\NIt depends on what they offer.
+Dialogue: 0,0:21:14.98,0:21:16.48,Default,,0000,0000,0000,,打扰一下\NExcuse me.
+Dialogue: 0,0:21:16.73,0:21:19.98,Default,,0000,0000,0000,,这是老枪 还的债务利息\NThis is from Gun. Interest on a debt.
+Dialogue: 0,0:21:20.44,0:21:22.49,Default,,0000,0000,0000,,告诉他我不需要这个\NTell him I don't need it.
+Dialogue: 0,0:21:22.82,0:21:24.15,Default,,0000,0000,0000,,伙计们我准备走了\NGuys, I'm leaving.
+Dialogue: 0,0:21:24.32,0:21:25.45,Default,,0000,0000,0000,,好的先生\NYes, sir.
+Dialogue: 0,0:21:31.62,0:21:33.20,Default,,0000,0000,0000,,非常感谢你\NThank you so much.
+Dialogue: 0,0:21:51.47,0:21:53.98,Default,,0000,0000,0000,,张先生安排好了一切\NMr. Chang arranged everything.
+Dialogue: 0,0:21:54.10,0:21:56.52,Default,,0000,0000,0000,,官方说是死于意外\NIt's officially death by accident.
+Dialogue: 0,0:21:56.98,0:21:59.06,Default,,0000,0000,0000,,反正钱能解决一切\NMoney solves everything.
+Dialogue: 0,0:22:02.07,0:22:03.99,Default,,0000,0000,0000,,市川…- 嗯?\NIchikawa... Yes?
+Dialogue: 0,0:22:04.65,0:22:08.66,Default,,0000,0000,0000,,光野死了 你还在这钓鱼?\NKo is dead. How can you fish?
+Dialogue: 0,0:22:09.70,0:22:11.66,Default,,0000,0000,0000,,我钓鱼也不是在找乐子\NI'm not having much fun.
+Dialogue: 0,0:22:12.87,0:22:17.71,Default,,0000,0000,0000,,我准备去日本杀了那个混蛋!\NI want to run to Japan, and kill that motherfucker!
+Dialogue: 0,0:22:19.50,0:22:21.84,Default,,0000,0000,0000,,你以为只有你很生气吗?\NYou think you're angry?
+Dialogue: 0,0:22:22.00,0:22:23.05,Default,,0000,0000,0000,,我也一样!\NI feel the same!
+Dialogue: 0,0:22:31.10,0:22:32.22,Default,,0000,0000,0000,,我们走吧\NLet's go.
+Dialogue: 0,0:22:32.72,0:22:33.72,Default,,0000,0000,0000,,好\NYeah.
+Dialogue: 0,0:23:12.93,0:23:16.81,Default,,0000,0000,0000,,给老板当司机太不容易了\NIt sucks being a chauffeur for the head family.
+Dialogue: 0,0:23:17.27,0:23:18.60,Default,,0000,0000,0000,,当然\NSure does.
+Dialogue: 0,0:23:19.23,0:23:21.27,Default,,0000,0000,0000,,你不能这么说笨蛋!\NYou can't say that, dickhead!
+Dialogue: 0,0:23:33.83,0:23:37.62,Default,,0000,0000,0000,,从大阪远道而来幸苦了\NThanks for coming all the way from Osaka.
+Dialogue: 0,0:23:39.16,0:23:42.29,Default,,0000,0000,0000,,我们坐新干线先到东京\NWe took the Shinkansen Express to Tokyo.
+Dialogue: 0,0:23:43.63,0:23:44.88,Default,,0000,0000,0000,,是吗?\NReally?
+Dialogue: 0,0:23:49.17,0:23:52.30,Default,,0000,0000,0000,,哪位是花田?\NSo who's Hanada?
+Dialogue: 0,0:23:53.51,0:23:56.26,Default,,0000,0000,0000,,我是花菱组的花田\NI'm Hanada of the Hanabishi.
+Dialogue: 0,0:23:56.43,0:23:59.27,Default,,0000,0000,0000,,花菱组…他妈的什么东西?\NHanabishi... So fucking what?
+Dialogue: 0,0:23:59.39,0:24:04.90,Default,,0000,0000,0000,,如果他们有敬意就应该野村或西野来啊\NNomura or Nishino should be here, if they had any respect for the code!
+Dialogue: 0,0:24:05.27,0:24:08.82,Default,,0000,0000,0000,,若头輔佐?这个头術是个安慰奖吗?\NDeputy Underboss? Is that a consolation prize?
+Dialogue: 0,0:24:08.99,0:24:13.70,Default,,0000,0000,0000,,野村先生刚接任了这个位置\NMr. Nomura just took over the post.
+Dialogue: 0,0:24:13.82,0:24:16.33,Default,,0000,0000,0000,,有一堆麻烦事等着西野先生解决\NMr. Nishino has screw-ups to resolve.
+Dialogue: 0,0:24:16.45,0:24:18.83,Default,,0000,0000,0000,,你是指这件事不麻烦吗?\NYou saying this isn't a screw-up?
+Dialogue: 0,0:24:19.41,0:24:22.92,Default,,0000,0000,0000,,我没那个意思\NI didn't mean that at all.
+Dialogue: 0,0:24:24.92,0:24:27.09,Default,,0000,0000,0000,,你他妈的到底什么意思?\NWhat the hell did you mean?
+Dialogue: 0,0:24:28.25,0:24:32.68,Default,,0000,0000,0000,,一个真正的日本黑道人会为此砍下一根手指\NA real Japanese yakuza would chop off a finger.
+Dialogue: 0,0:24:33.76,0:24:36.01,Default,,0000,0000,0000,,你这点钱只够喂鸡的\NThis money's just chicken feed.
+Dialogue: 0,0:24:36.47,0:24:38.60,Default,,0000,0000,0000,,它解决不了什么事\NIt won't settle everything!
+Dialogue: 0,0:24:39.22,0:24:41.10,Default,,0000,0000,0000,,我们可以出去打一场\NWe could go to war.
+Dialogue: 0,0:24:44.10,0:24:45.77,Default,,0000,0000,0000,,不必生气 伙计们\NNo need to get angry, fellows.
+Dialogue: 0,0:24:46.36,0:24:47.69,Default,,0000,0000,0000,,我很抱歉\NI'm sorry.
+Dialogue: 0,0:24:49.82,0:24:51.94,Default,,0000,0000,0000,,你去安抚过\NDid you take good care
+Dialogue: 0,0:24:52.74,0:24:54.53,Default,,0000,0000,0000,,光野家属了吗?\Nof Ko's bereaved family?
+Dialogue: 0,0:24:54.78,0:24:57.62,Default,,0000,0000,0000,,还没 抱歉 我现在就去\NNot yet, sorry. I'll do that now.
+Dialogue: 0,0:25:01.29,0:25:02.21,Default,,0000,0000,0000,,下午好\NGood afternoon.
+Dialogue: 0,0:25:03.46,0:25:04.73,Default,,0000,0000,0000,,先生\NSir,
+Dialogue: 0,0:25:04.75,0:25:06.50,Default,,0000,0000,0000,,这是中田先生和花田先生\NMr. Nakata and Mr. Hanada
+Dialogue: 0,0:25:06.79,0:25:08.67,Default,,0000,0000,0000,,来自大阪的花菱组\Nof the Hanabishi in Osaka.
+Dialogue: 0,0:25:09.80,0:25:14.88,Default,,0000,0000,0000,,我们的人在你的地盘上做错了事\NOur man seems to have misbehaved on your turf.
+Dialogue: 0,0:25:15.38,0:25:17.22,Default,,0000,0000,0000,,我们对此真的很抱歉\NWe're truly sorry about it.
+Dialogue: 0,0:25:20.10,0:25:22.98,Default,,0000,0000,0000,,请原涼他\NPlease forgive him with this.
+Dialogue: 0,0:25:25.85,0:25:27.02,Default,,0000,0000,0000,,这是干嘛?\NWhat's this for?
+Dialogue: 0,0:25:27.23,0:25:30.07,Default,,0000,0000,0000,,为光野的死来道歉\NAn apology for Ko Seong-Jin's death.
+Dialogue: 0,0:25:30.86,0:25:34.03,Default,,0000,0000,0000,,带着这三千万的现金\NWith this measly 30 million cash,
+Dialogue: 0,0:25:34.28,0:25:36.28,Default,,0000,0000,0000,,他们来请求我们的原谅\Nthey ask for our forgiveness.
+Dialogue: 0,0:25:39.45,0:25:40.91,Default,,0000,0000,0000,,你再去拿三千万来\NBring another 30 million cash.
+Dialogue: 0,0:25:41.04,0:25:41.79,Default,,0000,0000,0000,,什么?\NWhat?
+Dialogue: 0,0:25:42.16,0:25:43.29,Default,,0000,0000,0000,,去拿钱\NJust get the money.
+Dialogue: 0,0:25:44.75,0:25:46.87,Default,,0000,0000,0000,,那些杂种根本没有尊重\NThose bastards have no respect.
+Dialogue: 0,0:25:47.58,0:25:48.21,Default,,0000,0000,0000,,好\NAlright.
+Dialogue: 0,0:25:55.63,0:26:00.05,Default,,0000,0000,0000,,他用韩语在说什么? 一点不尊重我们\NWhat is he babbling in Korean? They're disrespecting us.
+Dialogue: 0,0:26:00.97,0:26:03.35,Default,,0000,0000,0000,,把钱给他们然后我们就走\NGive them the money and split.
+Dialogue: 0,0:26:05.02,0:26:11.19,Default,,0000,0000,0000,,当时是你让我在野村和西野没发现之前行动的啊\NYou're the one who told me to act before Nomura or Nishino found out.
+Dialogue: 0,0:26:11.32,0:26:14.19,Default,,0000,0000,0000,,他们在跟我们捣蛋 笨蛋\NThey're messing with us, stupid.
+Dialogue: 0,0:26:14.32,0:26:18.28,Default,,0000,0000,0000,,我们都给三千万了 为什么还让他们羞辱我们?\NWhy let them humiliate us when we are paying 30 million?
+Dialogue: 0,0:26:19.07,0:26:23.20,Default,,0000,0000,0000,,不过死了个人 五百万就够了\N5 million is really enough for a fucking soldier.
+Dialogue: 0,0:26:23.37,0:26:24.37,Default,,0000,0000,0000,,你!\NYou!
+Dialogue: 0,0:26:25.71,0:26:27.54,Default,,0000,0000,0000,,你刚在说什么?\NWhat did you say?
+Dialogue: 0,0:26:28.29,0:26:32.21,Default,,0000,0000,0000,,我们一个人的性命就值五百万吗?\NMy precious man's life is worth only 5 million?
+Dialogue: 0,0:26:35.76,0:26:41.80,Default,,0000,0000,0000,,你们的态度直接影响了这件事能否解决\NYour attitude determines if we're your poison or your antidote.
+Dialogue: 0,0:26:42.51,0:26:43.64,Default,,0000,0000,0000,,出去!\NGet out!
+Dialogue: 0,0:26:49.81,0:26:50.98,Default,,0000,0000,0000,,都给你们\NAll yours.
+Dialogue: 0,0:26:51.19,0:26:52.15,Default,,0000,0000,0000,,什么?\NWhat?
+Dialogue: 0,0:26:55.11,0:26:56.15,Default,,0000,0000,0000,,滚!\NGo!
+Dialogue: 0,0:27:08.75,0:27:12.34,Default,,0000,0000,0000,,我猜张能听懂日语\NI guess Chang understands Japanese.
+Dialogue: 0,0:27:12.50,0:27:14.50,Default,,0000,0000,0000,,这他妈的不是重点\NThat's not the damn point.
+Dialogue: 0,0:27:15.55,0:27:20.13,Default,,0000,0000,0000,,我们怎么处理这些钱?变成六千万了\NWhat do we do with the money? It's doubled to 60 million.
+Dialogue: 0,0:27:21.89,0:27:26.14,Default,,0000,0000,0000,,他们给新组长准备的贺礼?\NCongratulatory cash gift for the new chairman?
+Dialogue: 0,0:27:27.48,0:27:29.69,Default,,0000,0000,0000,,你真是个笨蛋\NYou're such a stupid ass.
+Dialogue: 0,0:27:30.90,0:27:33.36,Default,,0000,0000,0000,,他们这是逼着花菱组内斗\NThey are pushing the Hanabishi to fight.
+Dialogue: 0,0:27:34.73,0:27:40.91,Default,,0000,0000,0000,,给野村和西野各1亿然后砍掉你的手指\NPay 100 million each to Nomura and Nishino, and cut your finger.
+Dialogue: 0,0:27:44.08,0:27:47.75,Default,,0000,0000,0000,,真要那样? -什么真要那样?\NReally that much? "Really that much"?
+Dialogue: 0,0:27:47.87,0:27:50.71,Default,,0000,0000,0000,,这些年你挣了多少钱?\NHow much did you earn in the last couple years?
+Dialogue: 0,0:27:50.83,0:27:54.25,Default,,0000,0000,0000,,靠毒品和高利贷差不多赚了几十亿\NA couple billion by meth dealing and loan-sharking alone.
+Dialogue: 0,0:27:54.96,0:27:57.38,Default,,0000,0000,0000,,我们没有选择!\NWe have no fucking choice!
+Dialogue: 0,0:28:00.34,0:28:03.80,Default,,0000,0000,0000,,兄弟求你帮忙解决这件事\NBrother, I beg you to resolve this.
+Dialogue: 0,0:28:06.18,0:28:08.18,Default,,0000,0000,0000,,你要知道这不便宜\NIt won't be cheap though.
+Dialogue: 0,0:28:11.02,0:28:12.31,Default,,0000,0000,0000,,我明白了\NI got that.
+Dialogue: 0,0:28:23.99,0:28:27.49,Default,,0000,0000,0000,,你说你们背着我们\NYou're saying you went behind our backs
+Dialogue: 0,0:28:29.12,0:28:31.41,Default,,0000,0000,0000,,去找了张\Nto visit Chang.
+Dialogue: 0,0:28:34.00,0:28:35.08,Default,,0000,0000,0000,,抱歉\NSorry.
+Dialogue: 0,0:28:35.88,0:28:39.09,Default,,0000,0000,0000,,张不仅没收我们的钱\NChang didn't only refuse our money.
+Dialogue: 0,0:28:39.59,0:28:42.84,Default,,0000,0000,0000,,他给我们又拿了三千万回来\NHe gave us an additional 30 million.
+Dialogue: 0,0:28:43.72,0:28:45.59,Default,,0000,0000,0000,,你到底有多蠢?\NHow stupid are you?
+Dialogue: 0,0:28:47.51,0:28:49.43,Default,,0000,0000,0000,,他的意思是\NHis message was:
+Dialogue: 0,0:28:50.27,0:28:54.73,Default,,0000,0000,0000,,至少带六千万来\NBring at least 60 million.
+Dialogue: 0,0:28:55.06,0:28:56.44,Default,,0000,0000,0000,,傻子\NIdiots.
+Dialogue: 0,0:28:59.02,0:29:00.11,Default,,0000,0000,0000,,花田\NHanada.
+Dialogue: 0,0:29:00.28,0:29:01.28,Default,,0000,0000,0000,,是的先生\NYes, sir.
+Dialogue: 0,0:29:01.44,0:29:03.20,Default,,0000,0000,0000,,你不仅对\NYou didn't only lie
+Dialogue: 0,0:29:04.41,0:29:07.95,Default,,0000,0000,0000,,野村先生和我撒谎\Nto Mr. Nomura and I...
+Dialogue: 0,0:29:09.03,0:29:12.46,Default,,0000,0000,0000,,你还去韩国找乐子\NYou went to Korea for pleasure.
+Dialogue: 0,0:29:14.62,0:29:15.96,Default,,0000,0000,0000,,真会享受啊\NWhat luxury!
+Dialogue: 0,0:29:16.08,0:29:17.54,Default,,0000,0000,0000,,不是这样\NNot really.
+Dialogue: 0,0:29:18.21,0:29:20.38,Default,,0000,0000,0000,,我完成了自己的工作\NI completed my work
+Dialogue: 0,0:29:21.09,0:29:25.63,Default,,0000,0000,0000,,在去济州島之前\Nbefore stopping briefly on Jeju Island.
+Dialogue: 0,0:29:25.80,0:29:30.72,Default,,0000,0000,0000,,我们在四处为野村先生奔波\NWhile we were rushing around for Mr. Nomura,
+Dialogue: 0,0:29:32.39,0:29:36.90,Default,,0000,0000,0000,,而你在济州島玩女人\Nyou were buying women in Jeju.
+Dialogue: 0,0:29:37.81,0:29:40.82,Default,,0000,0000,0000,,现在你想我们给你\NNow you want us to clean up
+Dialogue: 0,0:29:41.94,0:29:44.15,Default,,0000,0000,0000,,擦屁股?\Nyour shitty mess?
+Dialogue: 0,0:29:44.90,0:29:45.99,Default,,0000,0000,0000,,抱歉\NSorry.
+Dialogue: 0,0:29:47.87,0:29:53.54,Default,,0000,0000,0000,,我不是故意给你惹麻烦的 野村先生\NI didn't mean to cause trouble for you, nor Mr. Nomura.
+Dialogue: 0,0:29:54.29,0:29:57.33,Default,,0000,0000,0000,,问题是你脑子里有病!\NThe trouble is you have shit for brains!
+Dialogue: 0,0:29:58.00,0:29:59.34,Default,,0000,0000,0000,,白痴!\NMoron!
+Dialogue: 0,0:30:02.92,0:30:04.51,Default,,0000,0000,0000,,算了吧\NForget it.
+Dialogue: 0,0:30:06.47,0:30:10.01,Default,,0000,0000,0000,,我会去说服张解决问题的\NI'll convince Chang and settle things.
+Dialogue: 0,0:30:13.35,0:30:14.52,Default,,0000,0000,0000,,花田\NHanada,
+Dialogue: 0,0:30:15.43,0:30:17.02,Default,,0000,0000,0000,,你跟我来\Nyou come with me.
+Dialogue: 0,0:30:17.90,0:30:18.94,Default,,0000,0000,0000,,好\NYes.
+Dialogue: 0,0:30:19.40,0:30:23.86,Default,,0000,0000,0000,,野村先生非常忙\NMr. Nomura is a very busy man.
+Dialogue: 0,0:30:28.03,0:30:29.53,Default,,0000,0000,0000,,组长!\NMr. Chairman!
+Dialogue: 0,0:30:34.41,0:30:39.21,Default,,0000,0000,0000,,我去找张来解决这个事\NI'll go over to Chang's office and settle this.
+Dialogue: 0,0:30:47.09,0:30:48.05,Default,,0000,0000,0000,,花田…\NHanada...
+Dialogue: 0,0:30:49.34,0:30:50.93,Default,,0000,0000,0000,,跟我来\NCome with me.
+Dialogue: 0,0:30:51.10,0:30:53.10,Default,,0000,0000,0000,,若头?我能去吗?\NUnderboss? May I?
+Dialogue: 0,0:30:54.47,0:30:58.06,Default,,0000,0000,0000,,你留下打理野村先生的公司\NYou keep Mr. Nomura company.
+Dialogue: 0,0:31:15.37,0:31:19.87,Default,,0000,0000,0000,,西野可以和张密谋\NNishino could secretly conspire with Chang
+Dialogue: 0,0:31:20.00,0:31:22.67,Default,,0000,0000,0000,,从花田那里搞点钱\Nto mooch money off Hanada.
+Dialogue: 0,0:31:23.34,0:31:26.09,Default,,0000,0000,0000,,他想从花田那搞点东西\NHe wants to squeeze Hanada.
+Dialogue: 0,0:31:26.59,0:31:30.18,Default,,0000,0000,0000,,如果西野露面了应该能说服张\NChang will be convinced of that if Mr. Nishino shows up.
+Dialogue: 0,0:31:30.34,0:31:34.81,Default,,0000,0000,0000,,但是西野总出现在很多重要场合\NBut Nishino shows up for all important occasions.
+Dialogue: 0,0:31:34.93,0:31:37.60,Default,,0000,0000,0000,,很难看出老板到底是谁\NIt's hard to see who the boss is.
+Dialogue: 0,0:31:37.73,0:31:38.77,Default,,0000,0000,0000,,对吗?\NRight?
+Dialogue: 0,0:31:39.77,0:31:40.94,Default,,0000,0000,0000,,没错l\NFor sure!
+Dialogue: 0,0:31:41.15,0:31:44.06,Default,,0000,0000,0000,,他是为野村先生和花菱组而工作\NHe works hard for Mr. Nomura and the Hanabishi.
+Dialogue: 0,0:31:44.23,0:31:48.11,Default,,0000,0000,0000,,你和他待在一起的时候没觉察到吗?\NHaven't you noticed while you're with him?
+Dialogue: 0,0:31:48.36,0:31:49.61,Default,,0000,0000,0000,,你跟他们一伙的?\NAre you one of them?
+Dialogue: 0,0:31:49.78,0:31:50.78,Default,,0000,0000,0000,,什么?\NWhat?
+Dialogue: 0,0:31:50.95,0:31:54.91,Default,,0000,0000,0000,,他讨厌野村先生当了组长成了他的老板\NHe hates that Mr. Nomura became chairman ahead of him.
+Dialogue: 0,0:31:55.24,0:31:58.75,Default,,0000,0000,0000,,难道他不想等野村先生退休接任组长吗?\NDoesn't he want Mr. Nomura to retire so he can take over the role?
+Dialogue: 0,0:31:59.20,0:32:01.37,Default,,0000,0000,0000,,他不想这样\NHe doesn't think like that.
+Dialogue: 0,0:32:02.50,0:32:05.46,Default,,0000,0000,0000,,你跟西野想法一样吗?\NDo you agree with Nishino?
+Dialogue: 0,0:32:05.59,0:32:07.96,Default,,0000,0000,0000,,你不想我当组长?\NYou hate that I became chairman?
+Dialogue: 0,0:32:08.09,0:32:10.09,Default,,0000,0000,0000,,因为我之前不过是个做股票交易的?\NBecause I was a stock trader?
+Dialogue: 0,0:32:10.26,0:32:13.59,Default,,0000,0000,0000,,你认为花菱组跟着我没有发展口号?\NYou think the Hanabishi haven't flourished with me?
+Dialogue: 0,0:32:13.72,0:32:16.97,Default,,0000,0000,0000,,我还没选西野作为我的接班人\NI have not chosen Nishino as my successor.
+Dialogue: 0,0:32:17.10,0:32:20.52,Default,,0000,0000,0000,,你当初对我对花菱组的承诺\NYour commitment to me, to the Hanabishi...
+Dialogue: 0,0:32:20.68,0:32:22.65,Default,,0000,0000,0000,,那是决定因素\Nthat's the determining factor.
+Dialogue: 0,0:32:22.77,0:32:23.65,Default,,0000,0000,0000,,明白了吗?\NIs that clear?
+Dialogue: 0,0:32:24.48,0:32:26.44,Default,,0000,0000,0000,,那你怎么想呢?\NSo what do you think?
+Dialogue: 0,0:32:26.82,0:32:27.86,Default,,0000,0000,0000,,关于什么?\NAbout what?
+Dialogue: 0,0:32:27.98,0:32:31.24,Default,,0000,0000,0000,,我问你是否愿意接替我的职位\NI'm asking if you are willing to take over my role.
+Dialogue: 0,0:32:31.82,0:32:33.57,Default,,0000,0000,0000,,我不能位居兄弟之上\NNot ahead of a brother.
+Dialogue: 0,0:32:33.70,0:32:35.32,Default,,0000,0000,0000,,你没看见吗?\NDon't you see?
+Dialogue: 0,0:32:35.45,0:32:37.62,Default,,0000,0000,0000,,你还能忠心多久?\NHow much longer can you be so loyal?
+Dialogue: 0,0:32:37.74,0:32:41.50,Default,,0000,0000,0000,,如果西野成为组长 你就是他最大的眼中钉\NYou would be his biggest obstacle if he becomes chairman.
+Dialogue: 0,0:32:41.62,0:32:44.96,Default,,0000,0000,0000,,他能毁了你的家庭赶走花田\NHe would crush your family, drag Hanada out,
+Dialogue: 0,0:32:45.13,0:32:47.04,Default,,0000,0000,0000,,吞了我的财产\Nand go after my assets.
+Dialogue: 0,0:32:47.21,0:32:48.67,Default,,0000,0000,0000,,不\NNo.
+Dialogue: 0,0:32:51.38,0:32:53.22,Default,,0000,0000,0000,,听着 中田\NListen, Nakata.
+Dialogue: 0,0:32:53.34,0:32:56.68,Default,,0000,0000,0000,,我希望你能接替我这个花菱组长的位置\NI want you to succeed me as chairman of the Hanabishi.
+Dialogue: 0,0:32:56.80,0:33:02.10,Default,,0000,0000,0000,,正如你们再背后议论我的 我不是从底层摸爬滚打上来的黑道人\NAs you say behind my back, I'm not an up-from-the-ranks yakuza.
+Dialogue: 0,0:33:02.23,0:33:04.85,Default,,0000,0000,0000,,我知道什么时候该退出\NI know when to quit.
+Dialogue: 0,0:33:05.52,0:33:06.98,Default,,0000,0000,0000,,好好想想\NThink it over.
+Dialogue: 0,0:33:08.19,0:33:09.82,Default,,0000,0000,0000,,你们同意吗?\NYou guys agree?
+Dialogue: 0,0:33:11.11,0:33:15.03,Default,,0000,0000,0000,,他真的是在为你的将来考虑\NHe is very considerate to think ahead for you.
+Dialogue: 0,0:33:16.49,0:33:21.29,Default,,0000,0000,0000,,我们完全同意他兄弟\NWe totally agree with him, brother.
+Dialogue: 0,0:33:27.13,0:33:28.34,Default,,0000,0000,0000,,花田\NHanada,\N本字幕首发于字幕库 www.zimuku.cn
+Dialogue: 0,0:33:30.05,0:33:33.05,Default,,0000,0000,0000,,再准备个2亿\Nprepare another 200 million.
+Dialogue: 0,0:33:34.68,0:33:36.76,Default,,0000,0000,0000,,各拿1个亿\N100 million each
+Dialogue: 0,0:33:37.14,0:33:39.51,Default,,0000,0000,0000,,给我和张\Nfor Chang and myself.
+Dialogue: 0,0:33:42.52,0:33:47.90,Default,,0000,0000,0000,,我已经准备好了两份1亿现金\NI already ordered 100 million each to be delivered
+Dialogue: 0,0:33:48.36,0:33:50.57,Default,,0000,0000,0000,,给野村和你\Nto Mr. Nomura and yourself.
+Dialogue: 0,0:33:50.82,0:33:54.36,Default,,0000,0000,0000,,花田 听着\NHanada, listen...
+Dialogue: 0,0:33:54.74,0:33:58.37,Default,,0000,0000,0000,,你随时可以拿回你的钱\NYou can get your money back anytime you want.
+Dialogue: 0,0:34:00.37,0:34:01.74,Default,,0000,0000,0000,,总有一天\NOne day,
+Dialogue: 0,0:34:02.12,0:34:05.75,Default,,0000,0000,0000,,当我掌管花菱组的时候\Nwhen I rule the Hanabishi family,
+Dialogue: 0,0:34:06.79,0:34:10.75,Default,,0000,0000,0000,,我会选你做我的若头\NI would handpick you to be my underboss.
+Dialogue: 0,0:34:11.38,0:34:14.59,Default,,0000,0000,0000,,一切都会好起来\NThen everything will be mighty fine.
+Dialogue: 0,0:34:16.59,0:34:18.05,Default,,0000,0000,0000,,你说真的?\NAre you sure?
+Dialogue: 0,0:34:18.55,0:34:19.60,Default,,0000,0000,0000,,真的\NI'm sure.
+Dialogue: 0,0:34:22.64,0:34:26.14,Default,,0000,0000,0000,,明天早上第一件事就是去找张\NLet's go to Chang's office first thing tomorrow morning.
+Dialogue: 0,0:34:27.06,0:34:29.44,Default,,0000,0000,0000,,和我一起去事情很快就能解决\NWith me, it will be quick.
+Dialogue: 0,0:34:29.65,0:34:31.57,Default,,0000,0000,0000,,很快\NQuick as a flash.
+Dialogue: 0,0:34:33.15,0:34:36.78,Default,,0000,0000,0000,,我会让你看看中田没有的能力\NI'll show you the finesse that Nakata lacks.
+Dialogue: 0,0:34:39.36,0:34:41.08,Default,,0000,0000,0000,,若头 -什么事?\NUnderboss. What?
+Dialogue: 0,0:34:41.37,0:34:42.79,Default,,0000,0000,0000,,谢谢先生\NThank you, sir.
+Dialogue: 0,0:34:44.70,0:34:45.95,Default,,0000,0000,0000,,我之前\NI was...
+Dialogue: 0,0:34:46.41,0:34:47.46,Default,,0000,0000,0000,,什么?\NWhat?
+Dialogue: 0,0:34:48.67,0:34:50.04,Default,,0000,0000,0000,,我…\NI was...
+Dialogue: 0,0:34:53.55,0:34:57.22,Default,,0000,0000,0000,,想知道你会不会砍我的手指?\Nwondering if you could spare me the finger-chopping?
+Dialogue: 0,0:34:58.84,0:35:00.84,Default,,0000,0000,0000,,你在做什么梦?\NAre you dreaming?
+Dialogue: 0,0:35:01.97,0:35:05.22,Default,,0000,0000,0000,,谁他妈的需要你的小指?\NWho the fuck needs your pinky?
+Dialogue: 0,0:35:06.14,0:35:07.27,Default,,0000,0000,0000,,嗯?\NHuh?
+Dialogue: 0,0:35:10.27,0:35:11.98,Default,,0000,0000,0000,,多谢\NThank you so much.
+Dialogue: 0,0:35:12.98,0:35:15.57,Default,,0000,0000,0000,,看好你的小手指\NTake good care of your pinky.
+Dialogue: 0,0:35:15.94,0:35:17.11,Default,,0000,0000,0000,,是?\NYeah?
+Dialogue: 0,0:35:17.40,0:35:19.78,Default,,0000,0000,0000,,你父母给你的\NYour parents gave it to you.
+Dialogue: 0,0:35:27.41,0:35:29.50,Default,,0000,0000,0000,,他们又问你要钱了吗?\NThey asked for money again?
+Dialogue: 0,0:35:30.08,0:35:34.00,Default,,0000,0000,0000,,从监狱里被放出来我们得去给花菱组送点钱\NWe must give a cash gift to a Hanabishi being released from prison.
+Dialogue: 0,0:35:34.38,0:35:37.26,Default,,0000,0000,0000,,我们是山王会为什么要这样?\NWe're Sanno. Why should we?
+Dialogue: 0,0:35:37.42,0:35:40.76,Default,,0000,0000,0000,,因为西野在保护我们\NBecause Nishino is our guardian.
+Dialogue: 0,0:35:40.93,0:35:43.64,Default,,0000,0000,0000,,我怀疑他是否会把钱上交给花菱组\NI doubt he makes deposits to the Hanabishi account.
+Dialogue: 0,0:35:43.76,0:35:47.27,Default,,0000,0000,0000,,伙计们他们应该把木村的地盘还给我们\NMan, they should give us back the Kimura turf.
+Dialogue: 0,0:35:47.39,0:35:48.52,Default,,0000,0000,0000,,它就在京东\NIt's in Tokyo.
+Dialogue: 0,0:35:48.68,0:35:52.35,Default,,0000,0000,0000,,嘿 我是组长 对我说话放尊重点\NHey, I'm the chairman! Don't speak as my equal.
+Dialogue: 0,0:35:52.48,0:35:54.02,Default,,0000,0000,0000,,抱歉先生我会注意的\NSorry, sir. I'll be careful.
+Dialogue: 0,0:35:54.15,0:35:55.19,Default,,0000,0000,0000,,蠢货!\NStupid!
+Dialogue: 0,0:35:55.57,0:35:59.03,Default,,0000,0000,0000,,对待来自木村组的吉岗先生要有礼貌\NCourtesy of Mr. Yoshioka of the Kimura family.
+Dialogue: 0,0:35:59.36,0:36:01.49,Default,,0000,0000,0000,,木村组的吉岗?\NYoshioka of the Kimura?
+Dialogue: 0,0:36:01.86,0:36:05.20,Default,,0000,0000,0000,,在那边喝酒的那个人先生\NThat man drinking over there, sir.
+Dialogue: 0,0:36:06.37,0:36:08.58,Default,,0000,0000,0000,,嘿 朋友!\NHey, lost yakuza!
+Dialogue: 0,0:36:12.71,0:36:16.00,Default,,0000,0000,0000,,混蛋真想把他捏碎\NAsshole. I'll crush him one clay.
+Dialogue: 0,0:36:16.13,0:36:17.21,Default,,0000,0000,0000,,该死l\NShit!
+Dialogue: 0,0:36:20.67,0:36:25.68,Default,,0000,0000,0000,,你准备好接替我的位置了吗?\NAre you prepared to take over my position?
+Dialogue: 0,0:36:26.56,0:36:28.64,Default,,0000,0000,0000,,如果你准备好了就快点行动\NMove fast if you are ready.
+Dialogue: 0,0:36:28.77,0:36:29.89,Default,,0000,0000,0000,,口恩?\NHuh?
+Dialogue: 0,0:36:31.02,0:36:32.69,Default,,0000,0000,0000,,行动什么?\NWhat should I do?
+Dialogue: 0,0:36:32.81,0:36:35.48,Default,,0000,0000,0000,,对西野做点事\NDo something about Nishino.
+Dialogue: 0,0:36:36.15,0:36:39.03,Default,,0000,0000,0000,,杀了若头?\NKill the Underboss?
+Dialogue: 0,0:36:40.03,0:36:44.20,Default,,0000,0000,0000,,他和花田一起去找张道歉\NHe went with Hanada to apologize to Chang.
+Dialogue: 0,0:36:44.53,0:36:47.24,Default,,0000,0000,0000,,应该很容易让这事看起未像双方冲突的意外\NIt should be easy to make it look like a conflict.
+Dialogue: 0,0:36:48.04,0:36:50.75,Default,,0000,0000,0000,,当他晩上回来时干掉他\NStrike him at night when he returns.
+Dialogue: 0,0:36:51.12,0:36:53.83,Default,,0000,0000,0000,,每个人都会认为是张干的\NEveryone will accuse Chang.
+Dialogue: 0,0:36:56.59,0:36:58.30,Default,,0000,0000,0000,,明白吗中田?\NYou see, Nakata?
+Dialogue: 0,0:36:58.59,0:37:03.05,Default,,0000,0000,0000,,如果你想当组长你总得把障碍铲除\NThere are hurdles to overcome if you want to be a leader.
+Dialogue: 0,0:37:03.18,0:37:04.93,Default,,0000,0000,0000,,现在是你选择做或者死的时刻了\NYour do-or-die moment.
+Dialogue: 0,0:37:05.05,0:37:08.60,Default,,0000,0000,0000,,但是花田必须得活着 因为我们还用的着他\NBut Hanada must live because we can use him.
+Dialogue: 0,0:37:10.35,0:37:14.94,Default,,0000,0000,0000,,到时候把张也杀了\NWhile you're at it, eliminate Chang too.
+Dialogue: 0,0:37:15.56,0:37:17.81,Default,,0000,0000,0000,,他们将来只会妨碍我们\NThey will only get in our way.
+Dialogue: 0,0:37:17.94,0:37:22.19,Default,,0000,0000,0000,,不论谁赢了都将看上去是 花菱会和张氏集团的冲突\NWhoever wins, it will look like a Nishino vs. Chang conflict.
+Dialogue: 0,0:37:22.61,0:37:24.24,Default,,0000,0000,0000,,动动你的脑子\NUse your brain.
+Dialogue: 0,0:37:27.78,0:37:30.45,Default,,0000,0000,0000,,看看他们这些蠢脸l\NLook at their stupid faces!
+Dialogue: 0,0:37:31.54,0:37:34.33,Default,,0000,0000,0000,,我们他妈的在这干嘛呀?\NWhat the hell are we doing here?
+Dialogue: 0,0:37:34.62,0:37:37.04,Default,,0000,0000,0000,,我们还不属于花菱\NWe don't belong to the Hanabishi.
+Dialogue: 0,0:37:37.17,0:37:40.80,Default,,0000,0000,0000,,他们却把我们当做他们的佣人\NThey practically treat us like their servants.
+Dialogue: 0,0:37:41.09,0:37:45.47,Default,,0000,0000,0000,,无论怎样 这是事实 大友也参与其中了\NAnyway, it appears Otomo had a part in this.
+Dialogue: 0,0:37:46.64,0:37:51.89,Default,,0000,0000,0000,,我希望花菱会和张氏集团都不会以停战告终\NI hope the Hanabishi-Chang fight won't end in a truce.
+Dialogue: 0,0:37:52.02,0:37:56.98,Default,,0000,0000,0000,,然后我们就能重振山王会与他们抗争 就像以前一样\NThen we can restore the Sanno to equal them as in the past.
+Dialogue: 0,0:37:57.52,0:37:59.06,Default,,0000,0000,0000,,你说的对\NYou're right.
+Dialogue: 0,0:38:00.61,0:38:02.15,Default,,0000,0000,0000,,大友\NOtomo.
+Dialogue: 0,0:38:03.32,0:38:05.65,Default,,0000,0000,0000,,我觉得他还在济州島\NI think he's still in Jeju.
+Dialogue: 0,0:38:06.24,0:38:07.99,Default,,0000,0000,0000,,我应该联系他么\NShould I contact him?
+Dialogue: 0,0:38:11.37,0:38:14.62,Default,,0000,0000,0000,,这就是王先生关于香港计划的提议了\NThis is Mr. Wang's proposal on the Hong Kong project.
+Dialogue: 0,0:38:15.46,0:38:16.58,Default,,0000,0000,0000,,好的\NFine.
+Dialogue: 0,0:38:17.12,0:38:19.96,Default,,0000,0000,0000,,我可以继续么 会长大人?\NShould I continue, Mr. Chairman?
+Dialogue: 0,0:38:20.29,0:38:21.84,Default,,0000,0000,0000,,好的\NFine.
+Dialogue: 0,0:38:22.38,0:38:23.46,Default,,0000,0000,0000,,张先生\NMr. Chang!
+Dialogue: 0,0:38:23.59,0:38:25.13,Default,,0000,0000,0000,,请看这个\NPlease look at this.
+Dialogue: 0,0:38:25.26,0:38:30.51,Default,,0000,0000,0000,,这个混账给您添了很大的麻烦\NThis asshole caused you a serious inconvenience.
+Dialogue: 0,0:38:32.89,0:38:34.35,Default,,0000,0000,0000,,我对此很抱歉\NI'm sorry about that.
+Dialogue: 0,0:38:34.47,0:38:36.48,Default,,0000,0000,0000,,这就是香港方面的价钱吗?\NIs this the Hong Kong figure?
+Dialogue: 0,0:38:36.73,0:38:37.81,Default,,0000,0000,0000,,是的\NYes.
+Dialogue: 0,0:38:38.10,0:38:40.86,Default,,0000,0000,0000,,我们敬仰您的声誉\NWe're aware of your reputation.
+Dialogue: 0,0:38:41.86,0:38:44.53,Default,,0000,0000,0000,,关西地区也能听到您的名字\NIt spread to the Kansai region, too.
+Dialogue: 0,0:38:47.20,0:38:48.49,Default,,0000,0000,0000,,所以…\NSo...
+Dialogue: 0,0:38:49.91,0:38:52.95,Default,,0000,0000,0000,,作为花菱会的会长\Non behalf of the Chairman of the Hanabishi...
+Dialogue: 0,0:38:53.95,0:38:59.71,Default,,0000,0000,0000,,我若头今天来亲自见您\NI, Underboss Nishino, come to greet you in person today.
+Dialogue: 0,0:39:00.50,0:39:02.46,Default,,0000,0000,0000,,和韩国宾馆的差别不是太大\NNot so different from Korean hotels.
+Dialogue: 0,0:39:03.30,0:39:06.13,Default,,0000,0000,0000,,好的 那么台湾呢?\NYes, and what about Taiwan?
+Dialogue: 0,0:39:06.26,0:39:08.13,Default,,0000,0000,0000,,您能原谅他么?\NWill you forgive him?
+Dialogue: 0,0:39:08.30,0:39:11.72,Default,,0000,0000,0000,,我们在与这个开发商继续商讨并购的事项\NWe are proceeding acquisitions with this developer.
+Dialogue: 0,0:39:13.85,0:39:15.64,Default,,0000,0000,0000,,为了表示我们的兼憶\NAs a sign of our apology...
+Dialogue: 0,0:39:17.39,0:39:19.31,Default,,0000,0000,0000,,我带来了1亿的现金\NI brought 100 million cash.
+Dialogue: 0,0:39:21.65,0:39:24.27,Default,,0000,0000,0000,,表明我们不会以低于80亿的价格卖出\NSay we won't sell for less than 8 billion.
+Dialogue: 0,0:39:24.44,0:39:25.86,Default,,0000,0000,0000,,好的我会通知他们\NYes, I'll inform them.
+Dialogue: 0,0:39:32.57,0:39:33.91,Default,,0000,0000,0000,,这是英文版的\NThat's English.
+Dialogue: 0,0:39:39.08,0:39:40.25,Default,,0000,0000,0000,,感谢您远程前来\NThank you for traveling.
+Dialogue: 0,0:39:41.00,0:39:42.50,Default,,0000,0000,0000,,我们会接受3千万\NWe'll accept 30 million.
+Dialogue: 0,0:39:43.34,0:39:45.92,Default,,0000,0000,0000,,这只是你曾安排的数目\NIt's only the amount you had arranged.
+Dialogue: 0,0:39:46.05,0:39:49.42,Default,,0000,0000,0000,,您已做了一个友善的表率我们不是黑帮\NYou've made a friendly gesture. We're not yakuza.
+Dialogue: 0,0:39:49.76,0:39:51.22,Default,,0000,0000,0000,,我得请您离开了\NI must ask you to leave.
+Dialogue: 0,0:40:00.10,0:40:02.85,Default,,0000,0000,0000,,我们不是在京都就餐吗?\NAren't we dining out in Kyoto?
+Dialogue: 0,0:40:02.98,0:40:05.90,Default,,0000,0000,0000,,他把我当成什么了?\NWhere the hell is he taking me?
+Dialogue: 0,0:40:07.11,0:40:10.86,Default,,0000,0000,0000,,那个站附近不是有很多馆子的么?\NAren't there many restaurants near the station?
+Dialogue: 0,0:40:11.45,0:40:12.86,Default,,0000,0000,0000,,我们走了多远了?\NHow far are we going?
+Dialogue: 0,0:40:13.16,0:40:17.29,Default,,0000,0000,0000,,中田告诉我跟着他的车\NMr. Nakata told me to follow his car.
+Dialogue: 0,0:40:17.70,0:40:19.20,Default,,0000,0000,0000,,我也不知道是哪儿\NI don't know where.
+Dialogue: 0,0:40:21.00,0:40:25.88,Default,,0000,0000,0000,,中田和我曾在这条路上的一家饭馆吃饭\NMr. Nakata and I ate once in a Ryotei restaurant on this road.
+Dialogue: 0,0:40:29.01,0:40:32.80,Default,,0000,0000,0000,,现在是吃甜鱼最好的季节啊\NIt's the best season for sweetfish.
+Dialogue: 0,0:40:33.89,0:40:37.97,Default,,0000,0000,0000,,对我来说现在的淡水鱼尝起来才非常的有鱼味儿啊\NFreshwater fish tastes too fishy for me.
+Dialogue: 0,0:40:38.52,0:40:40.48,Default,,0000,0000,0000,,我宁愿吃寿司\NI'd rather have sushi.
+Dialogue: 0,0:40:48.40,0:40:50.94,Default,,0000,0000,0000,,为什么停在这样一个地方?\NWhy stop at a place like this?
+Dialogue: 0,0:41:03.21,0:41:04.33,Default,,0000,0000,0000,,我很抱歉\NI'm sorry.
+Dialogue: 0,0:41:06.04,0:41:09.25,Default,,0000,0000,0000,,我们走错路了 得在这掉头\NWe took the wrong path. We'll turn around here.
+Dialogue: 0,0:41:09.50,0:41:11.05,Default,,0000,0000,0000,,快点 蠢货\NHurry up, moron!
+Dialogue: 0,0:41:18.26,0:41:19.72,Default,,0000,0000,0000,,我他妈的\NWhat the fuck!
+Dialogue: 0,0:41:25.48,0:41:27.36,Default,,0000,0000,0000,,花田 -是我?\NHanada. Yes?
+Dialogue: 0,0:41:27.52,0:41:29.32,Default,,0000,0000,0000,,现在你站哪边?\NWhose side are you on?
+Dialogue: 0,0:41:31.28,0:41:32.82,Default,,0000,0000,0000,,这是怎么了\NWhat's going on?
+Dialogue: 0,0:41:32.94,0:41:34.65,Default,,0000,0000,0000,,他是谁?\NWho is he?
+Dialogue: 0,0:41:36.03,0:41:37.20,Default,,0000,0000,0000,,当真?\NReally?
+Dialogue: 0,0:41:37.74,0:41:39.70,Default,,0000,0000,0000,,你还不明白么?\NYou still don't understand?
+Dialogue: 0,0:41:39.99,0:41:41.20,Default,,0000,0000,0000,,听着\NListen.
+Dialogue: 0,0:41:42.70,0:41:44.50,Default,,0000,0000,0000,,野村组长\NChairman Nomura.
+Dialogue: 0,0:41:44.92,0:41:46.67,Default,,0000,0000,0000,,那个操蛋的\NThat motherfucker
+Dialogue: 0,0:41:48.08,0:41:50.21,Default,,0000,0000,0000,,想煽动中田\Ntried to instigate Nakata.
+Dialogue: 0,0:41:50.46,0:41:52.88,Default,,0000,0000,0000,,他还想让我死\NHe tried to rub me out.
+Dialogue: 0,0:41:54.13,0:41:56.13,Default,,0000,0000,0000,,把你和我一起打倒\NAnd take you down with me.
+Dialogue: 0,0:41:56.30,0:41:57.55,Default,,0000,0000,0000,,不可能!\NNo way!
+Dialogue: 0,0:41:57.76,0:42:00.39,Default,,0000,0000,0000,,你知道我为他做了多少么?\NYou know how much I did for him?
+Dialogue: 0,0:42:00.51,0:42:02.68,Default,,0000,0000,0000,,你知道的对吧?\NYou know that, don't you?
+Dialogue: 0,0:42:03.77,0:42:06.94,Default,,0000,0000,0000,,别再局促不安了 你出不去的\NStop squirming. You're not getting out.
+Dialogue: 0,0:42:11.48,0:42:13.15,Default,,0000,0000,0000,,你跟哪边?\NWhose side are you on?
+Dialogue: 0,0:42:14.57,0:42:16.91,Default,,0000,0000,0000,,在你出去前回答我\NAnswer before you get out.
+Dialogue: 0,0:42:17.07,0:42:20.49,Default,,0000,0000,0000,,我怎么会站在他那边呢\NHow could I possibly take his side
+Dialogue: 0,0:42:20.66,0:42:22.41,Default,,0000,0000,0000,,在这种情况下?\Nin this situation?
+Dialogue: 0,0:42:22.58,0:42:24.58,Default,,0000,0000,0000,,请你让我从车里出去!\NPlease let me get out the car!
+Dialogue: 0,0:42:26.71,0:42:27.87,Default,,0000,0000,0000,,好的你走吧\NFine, go.
+Dialogue: 0,0:42:30.21,0:42:34.42,Default,,0000,0000,0000,,告诉他们有人在张先生处袭击了我俩\NTell them someone attacked us both near Chang's office.
+Dialogue: 0,0:42:34.59,0:42:38.39,Default,,0000,0000,0000,,只有你活着出去了\NOnly you got out alive.
+Dialogue: 0,0:42:39.55,0:42:41.93,Default,,0000,0000,0000,,把这个告诉野村\NTell that to Nomura.
+Dialogue: 0,0:42:43.47,0:42:44.68,Default,,0000,0000,0000,,好的\NYes.
+Dialogue: 0,0:42:45.10,0:42:47.31,Default,,0000,0000,0000,,走吧开车\NGo ahead and move the car.
+Dialogue: 0,0:43:07.00,0:43:10.42,Default,,0000,0000,0000,,好的 也把他扔到湖里\NFine. Dump him in the lake, too.
+Dialogue: 0,0:43:10.54,0:43:11.63,Default,,0000,0000,0000,,好的先生\NYes, sir.
+Dialogue: 0,0:43:12.17,0:43:13.88,Default,,0000,0000,0000,,什么一走吧\NWhat? Let's go.
+Dialogue: 0,0:43:15.63,0:43:17.30,Default,,0000,0000,0000,,你在干什么?\NWhat are you doing?
+Dialogue: 0,0:43:17.42,0:43:18.13,Default,,0000,0000,0000,,若头\NUnderboss!
+Dialogue: 0,0:43:18.26,0:43:20.05,Default,,0000,0000,0000,,别忘了:你是唯一的幸存者!\NDon't forget: You're the only survivor!
+Dialogue: 0,0:43:37.86,0:43:39.99,Default,,0000,0000,0000,,你为什么穿成那样?\NWhy are you dressed like that?
+Dialogue: 0,0:43:42.16,0:43:43.37,Default,,0000,0000,0000,,抱兼欠\NI'm sorry.
+Dialogue: 0,0:43:44.53,0:43:47.25,Default,,0000,0000,0000,,我直接从水里出来的\NI came directly from the site.
+Dialogue: 0,0:43:48.00,0:43:50.54,Default,,0000,0000,0000,,我跟手下借的这身行头\NI borrowed these from one of my men.
+Dialogue: 0,0:43:51.08,0:43:54.00,Default,,0000,0000,0000,,西野怎么样?\NWhat happened to Nishino?
+Dialogue: 0,0:43:57.30,0:44:01.18,Default,,0000,0000,0000,,我们的一个人被射杀\NOne of my men was shot to death.
+Dialogue: 0,0:44:02.84,0:44:07.35,Default,,0000,0000,0000,,我差点和西野先生淹死在湖里\NI almost drowned in the lake with Mr. Nishino.
+Dialogue: 0,0:44:09.73,0:44:14.11,Default,,0000,0000,0000,,我设法从车里逃了出来\NI managed to escape from the car on my own.
+Dialogue: 0,0:44:15.15,0:44:18.78,Default,,0000,0000,0000,,至于西野怎么样我还不清楚\NI don't know what happened to Nishino.
+Dialogue: 0,0:44:23.28,0:44:24.99,Default,,0000,0000,0000,,他肯定死了\NHe must be dead.
+Dialogue: 0,0:44:25.37,0:44:26.45,Default,,0000,0000,0000,,对吧?\NRight?
+Dialogue: 0,0:44:37.75,0:44:39.09,Default,,0000,0000,0000,,王八蛋 张\NMotherfucker Chang!
+Dialogue: 0,0:44:39.30,0:44:41.88,Default,,0000,0000,0000,,我们要怎么处理张?\NWhat do we do about Chang?
+Dialogue: 0,0:44:42.18,0:44:44.05,Default,,0000,0000,0000,,这就是问题所在\NThat's the problem.
+Dialogue: 0,0:44:45.26,0:44:48.77,Default,,0000,0000,0000,,西野死了 我们不能轻易的让步\NNo backing down quietly after Nishino's death.
+Dialogue: 0,0:44:49.39,0:44:50.39,Default,,0000,0000,0000,,能做到吧花田?\NUp to it, Hanada?
+Dialogue: 0,0:44:53.31,0:44:54.23,Default,,0000,0000,0000,,谁?\NWho?
+Dialogue: 0,0:44:56.94,0:44:58.15,Default,,0000,0000,0000,,我么?\NMe?
+Dialogue: 0,0:44:59.23,0:45:01.53,Default,,0000,0000,0000,,带上些人手\NGet some guys together.
+Dialogue: 0,0:45:02.07,0:45:04.07,Default,,0000,0000,0000,,你能做到的\NYou can do it.
+Dialogue: 0,0:45:08.20,0:45:09.24,Default,,0000,0000,0000,,好的\NYes.
+Dialogue: 0,0:45:11.00,0:45:14.58,Default,,0000,0000,0000,,关于张你要打算怎么行动?\NWhat are you doing about Chang?
+Dialogue: 0,0:45:16.25,0:45:18.25,Default,,0000,0000,0000,,我有个人一直在跟踪他\NI got a man tailing him.
+Dialogue: 0,0:45:18.67,0:45:22.42,Default,,0000,0000,0000,,他常去他喜欢的那家咖啡店\NHe frequents his favorite coffee shop.
+Dialogue: 0,0:45:22.80,0:45:24.59,Default,,0000,0000,0000,,您的续杯\NYour refill.
+Dialogue: 0,0:45:31.56,0:45:34.89,Default,,0000,0000,0000,,西野和张见面后就被袭击了\NNishino was attacked after the meeting with Mr. Chang.
+Dialogue: 0,0:45:35.02,0:45:37.27,Default,,0000,0000,0000,,花田的人正在路上\NHanada's men are on the way.
+Dialogue: 0,0:45:37.40,0:45:39.73,Default,,0000,0000,0000,,告诉他小心\NPlease tell him to watch out.
+Dialogue: 0,0:45:39.86,0:45:41.28,Default,,0000,0000,0000,,你打给崔了没?\NDid you call Choi?
+Dialogue: 0,0:45:41.40,0:45:44.36,Default,,0000,0000,0000,,他的电话打不通 所以我打给了你\NHe was unreachable, so I called you.
+Dialogue: 0,0:45:44.61,0:45:45.86,Default,,0000,0000,0000,,知道了\NGot it.
+Dialogue: 0,0:45:46.11,0:45:47.62,Default,,0000,0000,0000,,备好车\NGet the car ready.
+Dialogue: 0,0:45:57.17,0:45:58.46,Default,,0000,0000,0000,,带上本台了吗 ?\NArmed?
+Dialogue: 0,0:46:00.88,0:46:02.71,Default,,0000,0000,0000,,放回去 蠢货\NPut it back, stupid.
+Dialogue: 0,0:46:04.72,0:46:06.05,Default,,0000,0000,0000,,我们再说一遍\NLet's recap.
+Dialogue: 0,0:46:06.30,0:46:10.14,Default,,0000,0000,0000,,我们先射杀保標 对吧?\NWe shoot the bodyguards first. Alright?
+Dialogue: 0,0:46:10.26,0:46:11.14,Default,,0000,0000,0000,,对的\NYeah.
+Dialogue: 0,0:46:11.35,0:46:12.64,Default,,0000,0000,0000,,我们可以的\NWe can do this.
+Dialogue: 0,0:46:13.43,0:46:14.64,Default,,0000,0000,0000,,行动!\NLet's move!
+Dialogue: 0,0:46:53.22,0:46:55.06,Default,,0000,0000,0000,,你还好么张先生?\NAre you alright, Mr. Chang?
+Dialogue: 0,0:46:55.18,0:46:57.73,Default,,0000,0000,0000,,这有我来 你先走\NI'll take care of this. Please go on ahead.
+Dialogue: 0,0:47:14.37,0:47:16.87,Default,,0000,0000,0000,,他们搞砸了 我们走\NThey screwed up. Let's go.
+Dialogue: 0,0:47:17.00,0:47:17.83,Default,,0000,0000,0000,,好的\NYeah.
+Dialogue: 0,0:47:17.96,0:47:20.96,Default,,0000,0000,0000,,那些废物永远都不能成事\NThose punks were never going to succeed.
+Dialogue: 0,0:47:23.13,0:47:24.46,Default,,0000,0000,0000,,搞砸了?\NA screw-up?
+Dialogue: 0,0:47:25.51,0:47:28.84,Default,,0000,0000,0000,,让张活着 杀了他的走狗 真是毫无意义\NIt's pointless to kill his henchmen and let Chang live!
+Dialogue: 0,0:47:28.97,0:47:31.39,Default,,0000,0000,0000,,花田只配和小混混一起干\NHanada only works with cheap punks.
+Dialogue: 0,0:47:31.51,0:47:33.97,Default,,0000,0000,0000,,你还指望他能把活给办了\NYou counted on him to do the job.
+Dialogue: 0,0:47:34.31,0:47:37.02,Default,,0000,0000,0000,,现在木村组也在行动了怎么办?\N"The Kimura family is working on it." Now what?
+Dialogue: 0,0:47:37.14,0:47:39.69,Default,,0000,0000,0000,,现在是时候把那些杂碎收拾收拾了\NIt's time to get your shit together!
+Dialogue: 0,0:47:40.69,0:47:41.81,Default,,0000,0000,0000,,是\NYes.
+Dialogue: 0,0:47:42.81,0:47:45.28,Default,,0000,0000,0000,,事情进展的越发糟糕\NThings are going from bad to worse.
+Dialogue: 0,0:47:46.07,0:47:48.40,Default,,0000,0000,0000,,他们不知道我们是幕后主使吧\NThey don't know we're behind this?
+Dialogue: 0,0:47:48.53,0:47:50.45,Default,,0000,0000,0000,,只有死人 不知道\NNot the dead ones.
+Dialogue: 0,0:47:50.57,0:47:53.12,Default,,0000,0000,0000,,他们还没为结义金兰祝贺呢\NThey didn't drink to sworn brotherhood.
+Dialogue: 0,0:47:53.24,0:47:55.41,Default,,0000,0000,0000,,要是他们知道了 我不就扯蛋了\NIt's my ass if they find out!
+Dialogue: 0,0:47:55.95,0:47:58.87,Default,,0000,0000,0000,,你想当若头吗?\NYou want to be underboss?
+Dialogue: 0,0:47:59.33,0:48:01.79,Default,,0000,0000,0000,,振作点 解决它\NPull it together and resolve this!
+Dialogue: 0,0:48:02.42,0:48:03.38,Default,,0000,0000,0000,,好的\NYes.
+Dialogue: 0,0:48:17.35,0:48:19.77,Default,,0000,0000,0000,,张先生说他没事\NMr. Chang says he's alright.
+Dialogue: 0,0:48:20.27,0:48:22.35,Default,,0000,0000,0000,,他怎么可能没事\NHow could he be alright?
+Dialogue: 0,0:48:22.48,0:48:26.07,Default,,0000,0000,0000,,他们跟着他并杀了你的手下\NThey went after him and killed your henchmen.
+Dialogue: 0,0:48:26.86,0:48:28.61,Default,,0000,0000,0000,,如果您这么认为的话\NIf you see it that way.
+Dialogue: 0,0:48:28.74,0:48:31.70,Default,,0000,0000,0000,,我们难道让他们肆意妄为\NWe should let them do whatever?
+Dialogue: 0,0:48:32.24,0:48:34.57,Default,,0000,0000,0000,,到底谁是幕后黑手\NWho the hell is behind this?
+Dialogue: 0,0:48:35.33,0:48:39.12,Default,,0000,0000,0000,,他们责怪我们对西野进行了攻击\NThey blame us for the attack on Nishino.
+Dialogue: 0,0:48:39.66,0:48:43.12,Default,,0000,0000,0000,,可能是花菱组里的某人做的\NIt might be someone inside the Hanabishi.
+Dialogue: 0,0:48:52.34,0:48:55.39,Default,,0000,0000,0000,,兄弟我可以和你一起走么?\NBrother, can I go with you?
+Dialogue: 0,0:48:56.26,0:48:57.81,Default,,0000,0000,0000,,听着\NListen.
+Dialogue: 0,0:48:58.26,0:49:00.48,Default,,0000,0000,0000,,我不是你的组长\NI'm not your boss
+Dialogue: 0,0:49:00.89,0:49:02.89,Default,,0000,0000,0000,,也不是你的兄弟\Nnor your brother.
+Dialogue: 0,0:49:03.10,0:49:05.44,Default,,0000,0000,0000,,你问错人了\NYou're asking the wrong person.
+Dialogue: 0,0:49:06.31,0:49:09.65,Default,,0000,0000,0000,,如果我问李先生 他会拒绝\NIf I ask Mr. Lee, he'll say no.
+Dialogue: 0,0:49:09.86,0:49:11.86,Default,,0000,0000,0000,,他也拒绝我了\NHe already told me no.
+Dialogue: 0,0:49:12.32,0:49:13.82,Default,,0000,0000,0000,,那现在呢?\NWhat now?
+Dialogue: 0,0:49:15.70,0:49:17.62,Default,,0000,0000,0000,,你要怎么办?\NWhat would you do?
+Dialogue: 0,0:49:18.95,0:49:21.16,Default,,0000,0000,0000,,看花菱组怎么做吧\NGo after the Hanabishi.
+Dialogue: 0,0:49:22.37,0:49:23.92,Default,,0000,0000,0000,,你会死的\NYou'll die.
+Dialogue: 0,0:49:24.71,0:49:26.00,Default,,0000,0000,0000,,死就死吧\NSo be it.
+Dialogue: 0,0:49:44.27,0:49:49.32,Default,,0000,0000,0000,,张氏是韩国政治工业的代理人和首脑\NChang is the fixer and mastermind of Korean politics and industry.
+Dialogue: 0,0:49:50.19,0:49:53.86,Default,,0000,0000,0000,,我们还没有找出是哪个人攻击了他\NWe have yet to identify the punks who attacked him.
+Dialogue: 0,0:49:54.03,0:49:57.53,Default,,0000,0000,0000,,我只知道和花菱组有关\NWe only know they are connected to the Hanabishi.
+Dialogue: 0,0:49:57.66,0:49:59.28,Default,,0000,0000,0000,,片岗警员已经在行动了\NOsaka Police is on it.
+Dialogue: 0,0:49:59.41,0:50:03.45,Default,,0000,0000,0000,,这是针对花田的复仇计划\NIt's either vengeance against Hanada
+Dialogue: 0,0:50:03.58,0:50:07.67,Default,,0000,0000,0000,,或是对西野的反击报复但他仍处于失踪\Nor retaliation for Nishino, but he's still missing.
+Dialogue: 0,0:50:08.58,0:50:11.96,Default,,0000,0000,0000,,韩国代理人对上花菱组\NKorean fixer vs. Hanabishi.
+Dialogue: 0,0:50:13.09,0:50:15.51,Default,,0000,0000,0000,,我们先去张那儿吧\NFirst we go to Chang.
+Dialogue: 0,0:50:15.63,0:50:17.34,Default,,0000,0000,0000,,你最好小心\NYou'd better watch out.
+Dialogue: 0,0:50:17.47,0:50:22.10,Default,,0000,0000,0000,,他非常有影响力一个小失误都可能满盘皆输\NHe's influential. One wrong move could lead to a diplomatic issue.
+Dialogue: 0,0:50:23.47,0:50:26.06,Default,,0000,0000,0000,,我曾和片岗先生去过那\NI went there once with Mr. Kataoka,
+Dialogue: 0,0:50:26.19,0:50:29.90,Default,,0000,0000,0000,,当他从监狱被释放的时候我们跟踪着大友\Nwhen we tailed Otomo after his release from prison.
+Dialogue: 0,0:50:47.96,0:50:51.46,Default,,0000,0000,0000,,我们是都市警察我们有些问题问你\NWe're from the Metropolitan Police. We have some questions for you.
+Dialogue: 0,0:50:59.84,0:51:01.89,Default,,0000,0000,0000,,这是让我们走进去吗 ?\NIs he telling us to walk?
+Dialogue: 0,0:51:06.18,0:51:09.06,Default,,0000,0000,0000,,傲慢的狗屎\NPompous ass!
+Dialogue: 0,0:51:22.08,0:51:24.58,Default,,0000,0000,0000,,花菱组发生了什么?\NSomething happen with the Hanabishi?
+Dialogue: 0,0:51:25.62,0:51:27.87,Default,,0000,0000,0000,,我已经告诉另一个警官了\NI already told another officer:
+Dialogue: 0,0:51:28.29,0:51:30.12,Default,,0000,0000,0000,,我们什么都不知道\NWe know nothing.
+Dialogue: 0,0:51:30.75,0:51:35.88,Default,,0000,0000,0000,,所以当你在咖啡店被袭击的时候你毫不知情 ?\NSo no clue why you were attacked in the coffee house?
+Dialogue: 0,0:51:37.63,0:51:43.05,Default,,0000,0000,0000,,在佐野和花菱组的冲突的那段时间我有调査一些案子\NI worked on some cases during the Sanno-Hanabishi conflict.
+Dialogue: 0,0:51:45.22,0:51:48.68,Default,,0000,0000,0000,,有个叫大友的瘪三和你联系了\NThere was a yakuza named Otomo who was associated with you.
+Dialogue: 0,0:51:50.14,0:51:52.94,Default,,0000,0000,0000,,我觉得冲突之后 他就在济州島定居\NI think he settled in Jeju after the conflict.
+Dialogue: 0,0:51:53.11,0:51:54.77,Default,,0000,0000,0000,,他和这个事情有什么联系呢?\NWhat's his connection to this?
+Dialogue: 0,0:51:54.90,0:51:57.61,Default,,0000,0000,0000,,他专程去了一趟花菱组\NHe paid a visit to the Hanabishi.
+Dialogue: 0,0:51:57.74,0:52:00.15,Default,,0000,0000,0000,,他最终还是被放逐了\NHe was eventually banished.
+Dialogue: 0,0:52:00.86,0:52:04.62,Default,,0000,0000,0000,,你会承认这件事和这个案子有些许关联么?张先生?\NWould you admit it's somehow related to this case, Mr. Chang?
+Dialogue: 0,0:52:07.79,0:52:10.29,Default,,0000,0000,0000,,如今 日本警察真没有礼貌\NThese days, Japanese police have no manners.
+Dialogue: 0,0:52:10.67,0:52:11.67,Default,,0000,0000,0000,,抱歉\NSorry.
+Dialogue: 0,0:52:12.17,0:52:15.00,Default,,0000,0000,0000,,张先生很忙我必须请您高开了\NMr. Chang is busy. I must ask you to leave.
+Dialogue: 0,0:52:17.05,0:52:18.84,Default,,0000,0000,0000,,来吧 咱们走\NCome on, let's go.
+Dialogue: 0,0:52:32.27,0:52:35.65,Default,,0000,0000,0000,,别管了他们会开始互相屠杀\NLeave it. They'll start killing each other.
+Dialogue: 0,0:52:36.23,0:52:39.49,Default,,0000,0000,0000,,但是我们不能毫无头结地空手而归\NBut we can't leave empty-handed without a clue.
+Dialogue: 0,0:53:43.34,0:53:45.13,Default,,0000,0000,0000,,这就是那个大友么?\NIsn't that Otomo?
+Dialogue: 0,0:53:45.51,0:53:46.76,Default,,0000,0000,0000,,就是他\NIt's him.
+Dialogue: 0,0:53:47.18,0:53:48.97,Default,,0000,0000,0000,,他打算去哪?\NWhat's he up to?
+Dialogue: 0,0:53:50.64,0:53:52.60,Default,,0000,0000,0000,,我们拘留他吧\NLet's detain him.
+Dialogue: 0,0:54:03.15,0:54:05.24,Default,,0000,0000,0000,,你怎么拿到你的护照的?\NHow did you get your passport?
+Dialogue: 0,0:54:06.70,0:54:08.99,Default,,0000,0000,0000,,老枪我安排的\NGun arranged it for me.
+Dialogue: 0,0:54:10.49,0:54:11.70,Default,,0000,0000,0000,,李先生\NMr. Lee.
+Dialogue: 0,0:54:11.87,0:54:12.62,Default,,0000,0000,0000,,怎么?\NYes?
+Dialogue: 0,0:54:12.75,0:54:16.21,Default,,0000,0000,0000,,请不要告诉张先生\NPlease keep it secret from Mr. Chang.
+Dialogue: 0,0:54:18.50,0:54:20.04,Default,,0000,0000,0000,,关于老枪的事也不要说\NAbout Gun too.
+Dialogue: 0,0:54:20.71,0:54:21.59,Default,,0000,0000,0000,,好的\NYes.
+Dialogue: 0,0:54:24.09,0:54:26.09,Default,,0000,0000,0000,,请靠边停车\NPull over your vehicle.
+Dialogue: 0,0:54:26.30,0:54:30.14,Default,,0000,0000,0000,,车牌号 银色奔驰\NPlate number S300A5573. Silver Mercedes.
+Dialogue: 0,0:54:30.97,0:54:34.14,Default,,0000,0000,0000,,他们已经在跟踪我们了\NThey're tailing me already.
+Dialogue: 0,0:55:04.92,0:55:08.93,Default,,0000,0000,0000,,我知道你刚到 但是请和我们去一个地方\NI know you just landed, but take a ride to the station with us.
+Dialogue: 0,0:55:16.64,0:55:17.77,Default,,0000,0000,0000,,让开\NMove over.
+Dialogue: 0,0:55:47.09,0:55:48.55,Default,,0000,0000,0000,,组长\NMr. Chairman!
+Dialogue: 0,0:55:49.97,0:55:51.22,Default,,0000,0000,0000,,混蛋\NAssholes!
+Dialogue: 0,0:55:51.39,0:55:53.30,Default,,0000,0000,0000,,这不防弹\NIt's not bulletproof!
+Dialogue: 0,0:55:53.60,0:55:55.64,Default,,0000,0000,0000,,我可能被杀了\NI could have been shot!
+Dialogue: 0,0:55:56.60,0:55:58.39,Default,,0000,0000,0000,,快收拾干净\NClean up this mess now!
+Dialogue: 0,0:55:58.52,0:55:59.23,Default,,0000,0000,0000,,好的先生!\NYes, sir!
+Dialogue: 0,0:55:59.35,0:56:00.64,Default,,0000,0000,0000,,快点\NMove it!
+Dialogue: 0,0:56:00.77,0:56:05.82,Default,,0000,0000,0000,,别说这方言 我讨厌关西口音\NDon't use that dialect. I hate the Kansai accent!
+Dialogue: 0,0:56:06.07,0:56:07.90,Default,,0000,0000,0000,,你滚\NYou move it!
+Dialogue: 0,0:56:08.03,0:56:09.53,Default,,0000,0000,0000,,滚开别挡我道\NOut of my way!
+Dialogue: 0,0:56:15.45,0:56:17.41,Default,,0000,0000,0000,,他是哪个组的?\NWhich family is he from?
+Dialogue: 0,0:56:17.54,0:56:19.04,Default,,0000,0000,0000,,有人知道么?\NAnybody know?
+Dialogue: 0,0:56:23.96,0:56:24.75,Default,,0000,0000,0000,,抱歉\NExcuse me.
+Dialogue: 0,0:56:24.92,0:56:26.84,Default,,0000,0000,0000,,中田!花田\NNakata! Hanada!
+Dialogue: 0,0:56:29.09,0:56:31.47,Default,,0000,0000,0000,,哦 你肯定就河野了\NOh, you must be Kono.
+Dialogue: 0,0:56:31.63,0:56:33.26,Default,,0000,0000,0000,,很荣幸重冬于見到了你\NHonored to finally meet you.
+Dialogue: 0,0:56:33.43,0:56:36.10,Default,,0000,0000,0000,,今天出狱了么?\NGet out of prison today?
+Dialogue: 0,0:56:36.26,0:56:39.85,Default,,0000,0000,0000,,对不起我不能像前组长对你那么好客\NSorry I can't be as hospitable to you as the former boss.
+Dialogue: 0,0:56:40.02,0:56:40.94,Default,,0000,0000,0000,,先忍着吧\NBear with me.
+Dialogue: 0,0:56:41.06,0:56:42.90,Default,,0000,0000,0000,,我毫不介意\NI don't mind at all.
+Dialogue: 0,0:56:43.02,0:56:44.65,Default,,0000,0000,0000,,你看上去不错\NYou're looking well.
+Dialogue: 0,0:56:44.81,0:56:48.53,Default,,0000,0000,0000,,尽管 几分钟前我差点被杀\NAlthough, I was almost killed a few minutes ago!
+Dialogue: 0,0:56:50.95,0:56:54.62,Default,,0000,0000,0000,,调动你的人和在东京 村组的所有人\NMobilize all your men and the Kimura family in Tokyo.
+Dialogue: 0,0:56:54.74,0:56:56.62,Default,,0000,0000,0000,,推毁张氏\NDestroy Chang now.
+Dialogue: 0,0:56:57.12,0:56:59.04,Default,,0000,0000,0000,,我已经在他们必除名单上了\NI'm already on their hit list.
+Dialogue: 0,0:56:59.16,0:57:00.87,Default,,0000,0000,0000,,等一下\NHold on a second.
+Dialogue: 0,0:57:01.46,0:57:04.54,Default,,0000,0000,0000,,就是花田引起了这场冲突\NIt was Hanada who caused this conflict.
+Dialogue: 0,0:57:04.67,0:57:07.46,Default,,0000,0000,0000,,我们让现场看起来像西野和张\NWe made it look like Nishino vs. Chang.
+Dialogue: 0,0:57:07.63,0:57:09.96,Default,,0000,0000,0000,,我告诉你那只是个托辞\NAnd I told you it was a pretext
+Dialogue: 0,0:57:10.09,0:57:14.39,Default,,0000,0000,0000,,是为了让你完美的策划 然后我就推举你为接班人\Nfor you to mastermind perfectly, then I'd make you my successor.
+Dialogue: 0,0:57:14.51,0:57:16.22,Default,,0000,0000,0000,,现在我在暗杀名単上\NNow I'm on their hit list.
+Dialogue: 0,0:57:16.35,0:57:20.10,Default,,0000,0000,0000,,对警察和张来说 你显然就是幕后人物\NTo both the police and Chang, you're obviously behind this.
+Dialogue: 0,0:57:20.27,0:57:23.89,Default,,0000,0000,0000,,赶快解决好不然我们会成为所有人的笑柄\NFix this or we'll be ridiculed by everyone.
+Dialogue: 0,0:57:30.65,0:57:33.15,Default,,0000,0000,0000,,山王会\NSANNO ENTERPRISES
+Dialogue: 0,0:57:35.87,0:57:38.58,Default,,0000,0000,0000,,白山先生在吗 -在的\NIs Mr. Shiroyama here? He's inside.
+Dialogue: 0,0:57:43.83,0:57:44.96,Default,,0000,0000,0000,,打流了\NExcuse me.
+Dialogue: 0,0:57:47.63,0:57:48.92,Default,,0000,0000,0000,,现在不行\NNot now.
+Dialogue: 0,0:57:49.88,0:57:51.09,Default,,0000,0000,0000,,好的先生\NYes, sir.
+Dialogue: 0,0:57:54.55,0:57:59.05,Default,,0000,0000,0000,,这确实是花菱和张之间的冲突\NThis is really a conflict between the Hanabishi and Chang.
+Dialogue: 0,0:57:59.22,0:58:00.51,Default,,0000,0000,0000,,笨蛋\NIdiot!
+Dialogue: 0,0:58:01.81,0:58:05.81,Default,,0000,0000,0000,,他们杀了西野 他是你的头儿\NThey murdered brother Nishino, who was your guardian.
+Dialogue: 0,0:58:06.65,0:58:10.36,Default,,0000,0000,0000,,你应该第一个站出来杀张\NYou should be first in line to attack Chang.
+Dialogue: 0,0:58:12.19,0:58:15.36,Default,,0000,0000,0000,,给我闭嘴否则我就废了山王会\NCut your bullshit or I'll destroy the Sanno.
+Dialogue: 0,0:58:17.45,0:58:19.53,Default,,0000,0000,0000,,好笑吗\NWhat's so funny?
+Dialogue: 0,0:58:19.99,0:58:21.62,Default,,0000,0000,0000,,中田\NNakata!
+Dialogue: 0,0:58:22.62,0:58:24.91,Default,,0000,0000,0000,,闭嘴\NShut your mouth.
+Dialogue: 0,0:58:25.66,0:58:27.67,Default,,0000,0000,0000,,至少试一下\NAt least try!
+Dialogue: 0,0:58:27.83,0:58:28.71,Default,,0000,0000,0000,,什么\NWhat?
+Dialogue: 0,0:58:28.88,0:58:31.50,Default,,0000,0000,0000,,你只是个副手 搞得像你是我们的头目一样\NYou're just a deputy acting like our guardian.
+Dialogue: 0,0:58:31.63,0:58:35.13,Default,,0000,0000,0000,,或者你觉得你已经接管整个组了\NOr you think you already took over the family?
+Dialogue: 0,0:58:35.26,0:58:36.18,Default,,0000,0000,0000,,嗯\NHuh?
+Dialogue: 0,0:58:39.05,0:58:40.93,Default,,0000,0000,0000,,你怎么\NWhat's with you?
+Dialogue: 0,0:58:41.35,0:58:44.14,Default,,0000,0000,0000,,西野走的那一刻起\NThe minute Mr. Nishino was gone,
+Dialogue: 0,0:58:44.31,0:58:48.40,Default,,0000,0000,0000,,你的态度完全变了\Nyou had a complete change of attitude.
+Dialogue: 0,0:58:49.23,0:58:50.69,Default,,0000,0000,0000,,笨蛋\NStupid ass.
+Dialogue: 0,0:58:52.27,0:58:53.90,Default,,0000,0000,0000,,让开\NOut of my way!
+Dialogue: 0,0:58:54.94,0:58:57.03,Default,,0000,0000,0000,,别站在这里挡路\NDon't just stand there!
+Dialogue: 0,0:58:58.07,0:58:59.78,Default,,0000,0000,0000,,进来\NComing in!
+Dialogue: 0,0:59:04.50,0:59:07.25,Default,,0000,0000,0000,,欺负弱小可不体面\NIt's not nice to bully the weak.
+Dialogue: 0,0:59:09.75,0:59:12.04,Default,,0000,0000,0000,,你在看什么\NWhat are you looking at?
+Dialogue: 0,0:59:13.09,0:59:16.72,Default,,0000,0000,0000,,不要像見到鬼一样看着我\NDon't look at me like I'm a fucking ghost.
+Dialogue: 0,0:59:17.01,0:59:18.51,Default,,0000,0000,0000,,白痴\NShitheads.
+Dialogue: 0,0:59:19.13,0:59:22.26,Default,,0000,0000,0000,,花菱组正面临着分月崩 瓦解的危机\NThe Hanabishi is in danger of disintegration.
+Dialogue: 0,0:59:23.22,0:59:28.02,Default,,0000,0000,0000,,必要时 我们应该和平相处\NWe must work together amicably when necessary.
+Dialogue: 0,0:59:28.77,0:59:31.52,Default,,0000,0000,0000,,没人教过你吗\NNo one ever taught you that?
+Dialogue: 0,0:59:32.02,0:59:33.27,Default,,0000,0000,0000,,舍弟\NYou punks!
+Dialogue: 0,0:59:38.15,0:59:41.78,Default,,0000,0000,0000,,张先生提醒说拘留大友太久\NMr. Chang warns that detaining Otomo longer
+Dialogue: 0,0:59:41.91,0:59:44.95,Default,,0000,0000,0000,,会让警局陷入不可逆转的局势\Nmight put the police into an overwhelming situation.
+Dialogue: 0,0:59:45.08,0:59:48.46,Default,,0000,0000,0000,,我没有意识到这个麻烦\NI wasn't aware of this inconvenience.
+Dialogue: 0,0:59:48.83,0:59:50.79,Default,,0000,0000,0000,,我会妥善安排的\NI will settle it quietly.
+Dialogue: 0,0:59:52.21,0:59:53.63,Default,,0000,0000,0000,,我只是建议\NI advise that.
+Dialogue: 0,0:59:59.68,1:00:03.26,Default,,0000,0000,0000,,我受够这种形式了 已经两天了\NI've had enough of this. It's been two days.
+Dialogue: 0,1:00:03.39,1:00:07.47,Default,,0000,0000,0000,,山王会的加藤若头背叛了你 木村接管了那个组\NBoss Kato of the Sanno betrayed you. Kimura got his family.
+Dialogue: 0,1:00:07.64,1:00:10.48,Default,,0000,0000,0000,,片岗利用你击垮山王\NKataoka used you to break up the Sanno.
+Dialogue: 0,1:00:10.64,1:00:12.90,Default,,0000,0000,0000,,你干掉了他们三个人\NYou got rid of three of them!
+Dialogue: 0,1:00:13.02,1:00:15.02,Default,,0000,0000,0000,,我怎么知道\NFuck if I know!
+Dialogue: 0,1:00:15.15,1:00:16.65,Default,,0000,0000,0000,,我会让你不能再开口\NI'll make sure you never talk again.
+Dialogue: 0,1:00:16.78,1:00:18.32,Default,,0000,0000,0000,,快点混蛋\NDo it, motherfucker!
+Dialogue: 0,1:00:18.99,1:00:21.99,Default,,0000,0000,0000,,你们两个哑了吗\NYou two are total dumbasses.
+Dialogue: 0,1:00:22.87,1:00:25.66,Default,,0000,0000,0000,,片岗没有告诉你们吗\NDidn't Kataoka tell you anything?
+Dialogue: 0,1:00:35.88,1:00:37.00,Default,,0000,0000,0000,,什么\NWhat?
+Dialogue: 0,1:00:38.26,1:00:39.47,Default,,0000,0000,0000,,怎么了\NWhat is it?
+Dialogue: 0,1:00:39.59,1:00:42.43,Default,,0000,0000,0000,,上面说不要问太多\NThe higher-ups said not to dig deeper.
+Dialogue: 0,1:00:42.55,1:00:45.85,Default,,0000,0000,0000,,张可能施压了 放了大友\NChang probably pressured to release Otomo.
+Dialogue: 0,1:00:48.60,1:00:50.27,Default,,0000,0000,0000,,你可以走了\NYou can go.
+Dialogue: 0,1:00:53.48,1:00:55.48,Default,,0000,0000,0000,,非常感谢\NThanks so much.
+Dialogue: 0,1:00:59.69,1:01:03.16,Default,,0000,0000,0000,,总是发号施令现在怎么样\NAfter all that bossing around, now what?
+Dialogue: 0,1:01:03.28,1:01:05.66,Default,,0000,0000,0000,,你老大下令了 结束了\NAn order from your boss and it's over.
+Dialogue: 0,1:01:05.78,1:01:07.41,Default,,0000,0000,0000,,我自由了\NI'm free to go!
+Dialogue: 0,1:01:08.20,1:01:09.37,Default,,0000,0000,0000,,废物\NPunk!
+Dialogue: 0,1:01:15.42,1:01:17.34,Default,,0000,0000,0000,,他是重要证人\NHe's a material witness.
+Dialogue: 0,1:01:17.46,1:01:20.88,Default,,0000,0000,0000,,你怎么让他走了那个下流\NHow can you let him go? That intimidating bastard!
+Dialogue: 0,1:01:21.01,1:01:23.34,Default,,0000,0000,0000,,我们应该拘留他10天或20天\NWe should detain him for another 10 or 20 days!
+Dialogue: 0,1:01:23.47,1:01:28.01,Default,,0000,0000,0000,,不管张说什么警局为什么轻易听他的\NWhatever Chang says, why must the police obey him so easily?
+Dialogue: 0,1:01:28.14,1:01:29.39,Default,,0000,0000,0000,,放松 -狗屁\NRelax. Bullshit!
+Dialogue: 0,1:01:29.52,1:01:30.89,Default,,0000,0000,0000,,警局最黑暗\NThe police are the dirtiest!
+Dialogue: 0,1:01:31.02,1:01:32.64,Default,,0000,0000,0000,,看看谁在说话\NLook who's talking!
+Dialogue: 0,1:01:33.19,1:01:35.19,Default,,0000,0000,0000,,冷静 –闭嘴\NCalm down! Shut up!\N本字幕首发于字幕库 www.zimuku.cn
+Dialogue: 0,1:01:42.57,1:01:44.36,Default,,0000,0000,0000,,一切还好吗\NEverything alright?
+Dialogue: 0,1:01:45.28,1:01:47.53,Default,,0000,0000,0000,,你的车在这里\NYour car is here.
+Dialogue: 0,1:01:48.58,1:01:50.87,Default,,0000,0000,0000,,张先生叫你接我吗\NMr. Chang told you to pick me up?
+Dialogue: 0,1:01:50.99,1:01:52.00,Default,,0000,0000,0000,,是的\NYes.
+Dialogue: 0,1:01:52.45,1:01:53.58,Default,,0000,0000,0000,,李先生\NMr. Lee,
+Dialogue: 0,1:01:54.25,1:01:56.25,Default,,0000,0000,0000,,我要去一个地方\NI have to go somewhere.
+Dialogue: 0,1:01:56.38,1:01:58.38,Default,,0000,0000,0000,,你能一个人回去吗\NCan you drive back alone?
+Dialogue: 0,1:01:58.92,1:02:00.80,Default,,0000,0000,0000,,你有什么事吗\NAre you up to something?
+Dialogue: 0,1:02:01.21,1:02:03.97,Default,,0000,0000,0000,,你让佐野和其他人跟你一起\NYou asked Ichikawa and others to join you.
+Dialogue: 0,1:02:04.43,1:02:06.26,Default,,0000,0000,0000,,不需要\NI did no such thing.
+Dialogue: 0,1:02:06.72,1:02:10.60,Default,,0000,0000,0000,,张先生不想惹麻烦\NMr. Chang doesn't want any more trouble.
+Dialogue: 0,1:02:11.52,1:02:14.94,Default,,0000,0000,0000,,把佐野妥妥的送回韩国去\NKindly take Ichikawa back to Korea.
+Dialogue: 0,1:02:15.94,1:02:17.65,Default,,0000,0000,0000,,张先生要求的\NMr. Chang's request.
+Dialogue: 0,1:02:18.94,1:02:24.28,Default,,0000,0000,0000,,请告诉他我回济州島了\NPlease tell him I went back to Jeju.
+Dialogue: 0,1:02:25.45,1:02:27.66,Default,,0000,0000,0000,,我不会给他添麻烦\NI will cause him no trouble.
+Dialogue: 0,1:02:49.97,1:02:52.64,Default,,0000,0000,0000,,那里无疑是个遥远的地方 -是啊\NIt had to be a remote place. Yeah.
+Dialogue: 0,1:02:52.77,1:02:54.14,Default,,0000,0000,0000,,他们监视着我\NThey have eyes on me.
+Dialogue: 0,1:02:56.31,1:02:57.64,Default,,0000,0000,0000,,这是老本台\NThis is Gun.
+Dialogue: 0,1:02:57.77,1:03:00.81,Default,,0000,0000,0000,,他准备了护照那些东西\NHe arranged passports and everything.
+Dialogue: 0,1:03:00.94,1:03:03.40,Default,,0000,0000,0000,,对不起 护照随便起的名字\NSorry about the random passport names.
+Dialogue: 0,1:03:04.28,1:03:05.65,Default,,0000,0000,0000,,五郎 山野这个名字不错\NI'm fine with Goro Yamada.
+Dialogue: 0,1:03:06.32,1:03:08.32,Default,,0000,0000,0000,,我拿了武器\NI loaded the firearms in the back.
+Dialogue: 0,1:03:08.45,1:03:11.49,Default,,0000,0000,0000,,随你挑 只是有些旧了点\NTake your pick, although some are old.
+Dialogue: 0,1:03:12.45,1:03:14.24,Default,,0000,0000,0000,,那么现在\NSo, what now?
+Dialogue: 0,1:03:16.50,1:03:17.83,Default,,0000,0000,0000,,第一件事\NFirst thing...
+Dialogue: 0,1:03:18.46,1:03:21.50,Default,,0000,0000,0000,,打倒东京的花菱会\Nwe take down the Hanabishi in Tokyo.
+Dialogue: 0,1:03:34.68,1:03:38.94,Default,,0000,0000,0000,,老大 我们在这里喝酒安全吗\NBoss, are we safe drinking in this kind of place?
+Dialogue: 0,1:03:41.69,1:03:43.52,Default,,0000,0000,0000,,请原谅\NCan you excuse us?
+Dialogue: 0,1:03:43.65,1:03:45.36,Default,,0000,0000,0000,,进来吧姑娘们\NCome on, girls.
+Dialogue: 0,1:03:52.24,1:03:54.54,Default,,0000,0000,0000,,你什么意思\NWhat do you mean by that?
+Dialogue: 0,1:03:55.16,1:03:57.75,Default,,0000,0000,0000,,在我的地盘上喝酒有什么问题\NWhat's wrong with drinking on my turf?
+Dialogue: 0,1:04:00.71,1:04:01.71,Default,,0000,0000,0000,,对吗\NRight?
+Dialogue: 0,1:04:02.38,1:04:04.17,Default,,0000,0000,0000,,我的想法对吗\NMy thoughts exactly.
+Dialogue: 0,1:04:04.29,1:04:07.09,Default,,0000,0000,0000,,关西的家伙们选择跟张抄架\NThe Kansai guys chose to quarrel with Chang.
+Dialogue: 0,1:04:07.21,1:04:09.68,Default,,0000,0000,0000,,我们东京的人要和睦相处\NWe in Tokyo should get along.
+Dialogue: 0,1:04:09.80,1:04:11.05,Default,,0000,0000,0000,,对\NTrue!
+Dialogue: 0,1:04:11.18,1:04:13.35,Default,,0000,0000,0000,,袭击花田的事\NAbout the attack on Hanada...
+Dialogue: 0,1:04:13.47,1:04:17.06,Default,,0000,0000,0000,,没人怀疑我们不用担心\NNo one suspects our involvement yet, so stop worrying.
+Dialogue: 0,1:04:35.66,1:04:38.75,Default,,0000,0000,0000,,我安排吉岗跟我们接头告诉你位置\NI arranged Yoshioka to meet us and told you where he is.
+Dialogue: 0,1:04:40.37,1:04:44.67,Default,,0000,0000,0000,,别以为付出了代价一切就结束了\NDon't think it's over, simply because you paid.
+Dialogue: 0,1:05:02.31,1:05:04.02,Default,,0000,0000,0000,,山崎在哪\NWhere's Yamazaki?
+Dialogue: 0,1:05:05.06,1:05:06.98,Default,,0000,0000,0000,,他在楼上 我能帮你吗\NHe's upstairs. Can I help?
+Dialogue: 0,1:05:07.15,1:05:08.28,Default,,0000,0000,0000,,警察\NPolice.
+Dialogue: 0,1:05:23.37,1:05:24.54,Default,,0000,0000,0000,,老板\NBoss?
+Dialogue: 0,1:05:25.42,1:05:26.46,Default,,0000,0000,0000,,什么\NWhat?
+Dialogue: 0,1:05:27.21,1:05:28.80,Default,,0000,0000,0000,,警察来了\NThe police are here.
+Dialogue: 0,1:05:30.55,1:05:31.80,Default,,0000,0000,0000,,快走\NLeave us.
+Dialogue: 0,1:05:33.43,1:05:34.43,Default,,0000,0000,0000,,好\NOkay.
+Dialogue: 0,1:05:40.85,1:05:43.94,Default,,0000,0000,0000,,探长 我宁愿你没有出现在这里\NDetective, I rather you not show up here.
+Dialogue: 0,1:05:45.81,1:05:47.31,Default,,0000,0000,0000,,原谅我\NBear with me.
+Dialogue: 0,1:05:47.56,1:05:50.48,Default,,0000,0000,0000,,我有些关于木村的问题\NI have some questions about the late Kimura.
+Dialogue: 0,1:05:51.99,1:05:56.03,Default,,0000,0000,0000,,你是山王会会长加藤的副手\NYou were an aide of Kato, the former Sanno chairman.
+Dialogue: 0,1:05:56.62,1:06:00.95,Default,,0000,0000,0000,,你怀疑我是嫌疑犯\NAre you implying I'm a suspect?
+Dialogue: 0,1:06:02.37,1:06:04.16,Default,,0000,0000,0000,,饶了我吧\NGive me a break.
+Dialogue: 0,1:06:05.33,1:06:10.50,Default,,0000,0000,0000,,片図没有给你本台吗 没让你干掉木村?\NDidn't Kataoka give you guns and tell you to make a raid on Kimura?
+Dialogue: 0,1:06:13.38,1:06:17.34,Default,,0000,0000,0000,,木村组这样的被杀 我根本不在乎\NI don't give a damn if a yakuza like Kimura was killed.
+Dialogue: 0,1:06:19.05,1:06:20.35,Default,,0000,0000,0000,,另外\NBesides,
+Dialogue: 0,1:06:20.85,1:06:25.39,Default,,0000,0000,0000,,你还没達捕杀加藤的凶手\Nyou haven't arrested the perp that killed Kato.
+Dialogue: 0,1:06:26.14,1:06:29.02,Default,,0000,0000,0000,,我知道他在哪里就見鬼了\NDamned if I know where he's at.
+Dialogue: 0,1:06:34.19,1:06:35.78,Default,,0000,0000,0000,,茂田\NShigeta speaking.
+Dialogue: 0,1:06:37.70,1:06:39.49,Default,,0000,0000,0000,,夜总会枪战\NNightclub shootout?
+Dialogue: 0,1:06:40.03,1:06:41.54,Default,,0000,0000,0000,,那是大友吗\NIs it Otomo?
+Dialogue: 0,1:06:42.70,1:06:44.62,Default,,0000,0000,0000,,仔细搜査\NCanvassing the area.
+Dialogue: 0,1:06:45.46,1:06:46.96,Default,,0000,0000,0000,,我要回去了\NI'm heading back.
+Dialogue: 0,1:06:47.79,1:06:48.96,Default,,0000,0000,0000,,探长\NDetective?
+Dialogue: 0,1:06:50.13,1:06:51.46,Default,,0000,0000,0000,,大友回日本了吗\NIs Otomo back in Japan?
+Dialogue: 0,1:06:51.59,1:06:54.51,Default,,0000,0000,0000,,管好自己的事回头再聊\NMind your own business. We'll talk later.
+Dialogue: 0,1:06:59.39,1:07:02.26,Default,,0000,0000,0000,,第二小组人手不足\NThe 2nd Division is short-handed.
+Dialogue: 0,1:07:03.22,1:07:04.56,Default,,0000,0000,0000,,真的\NReally?
+Dialogue: 0,1:07:04.77,1:07:08.31,Default,,0000,0000,0000,,让他低调点\NTell him to lay low for a while.
+Dialogue: 0,1:07:09.06,1:07:14.90,Default,,0000,0000,0000,,现在起所有跟张联系的事情都要经过我\NAll contact with Chang must go through me from now on.
+Dialogue: 0,1:07:15.49,1:07:16.70,Default,,0000,0000,0000,,好的先生\NYes, sir.
+Dialogue: 0,1:07:29.42,1:07:32.25,Default,,0000,0000,0000,,他说什么高张远点\NWhat did he say? To stay away from Chang?
+Dialogue: 0,1:07:32.38,1:07:33.71,Default,,0000,0000,0000,,差不多吧\NSomething like that.
+Dialogue: 0,1:07:33.84,1:07:36.26,Default,,0000,0000,0000,,没关系让我逮捕大友\NIt doesn't matter. Let's arrest Otomo on this.
+Dialogue: 0,1:07:36.38,1:07:37.34,Default,,0000,0000,0000,,应该的茂田\NWe should, Shigeta.
+Dialogue: 0,1:07:37.47,1:07:41.68,Default,,0000,0000,0000,,因为现在你被分配到第二组\NFor now, you're transferred to the 2nd Division.
+Dialogue: 0,1:07:44.47,1:07:46.60,Default,,0000,0000,0000,,为什么我被排除在外\NWhy am I off the case?
+Dialogue: 0,1:07:46.89,1:07:49.02,Default,,0000,0000,0000,,上面说的\NThe order came from above.
+Dialogue: 0,1:07:52.02,1:07:55.11,Default,,0000,0000,0000,,让大友杀了吉岗是最好的\NLetting Otomo kill Yoshioka was perfect.
+Dialogue: 0,1:07:55.23,1:07:57.15,Default,,0000,0000,0000,,监控摄像头关了\NSurveillance cameras off.
+Dialogue: 0,1:07:57.28,1:08:00.57,Default,,0000,0000,0000,,我们现在是官方目击证人\NWe are now officially victims who happened to be there.
+Dialogue: 0,1:08:01.95,1:08:05.20,Default,,0000,0000,0000,,他们最终会判大友罪名成立\NThey will eventually conclude Otomo did it.
+Dialogue: 0,1:08:05.33,1:08:07.87,Default,,0000,0000,0000,,我想也是但是\NI think so, but...
+Dialogue: 0,1:08:08.62,1:08:11.25,Default,,0000,0000,0000,,木村组怎么办\Nwhat happens to the Kimura family?
+Dialogue: 0,1:08:11.37,1:08:14.96,Default,,0000,0000,0000,,我希望花菱组撤退 回到自己的地盘\NI wish the Hanabishi would withdraw and return the turf.
+Dialogue: 0,1:08:15.09,1:08:17.80,Default,,0000,0000,0000,,这对我们有利\NThat wouldn't be in our favor.
+Dialogue: 0,1:08:17.92,1:08:21.34,Default,,0000,0000,0000,,另外我们要回地盘合适吗\NBesides, is the timing right for us to get it back?
+Dialogue: 0,1:08:21.47,1:08:24.05,Default,,0000,0000,0000,,他们会怀疑我们的好好想想\NThey will suspect us. Think harder!
+Dialogue: 0,1:08:24.18,1:08:26.06,Default,,0000,0000,0000,,花菱会\NIt's the Hanabishi.
+Dialogue: 0,1:08:27.47,1:08:29.98,Default,,0000,0000,0000,,发生什么了\NHello. Has something happened?
+Dialogue: 0,1:08:31.35,1:08:34.77,Default,,0000,0000,0000,,他总是拍花菱的马屁\NHe's always sucking up to the Hanabishi!
+Dialogue: 0,1:08:35.69,1:08:38.15,Default,,0000,0000,0000,,像大友一样行动\NTake action like Otomo!
+Dialogue: 0,1:08:39.82,1:08:40.82,Default,,0000,0000,0000,,傻瓜\NStupid asshole!
+Dialogue: 0,1:08:42.49,1:08:47.58,Default,,0000,0000,0000,,我想是不是可以讨论一下怎么处置大友\NI was wondering if we could discuss what to do with Otomo.
+Dialogue: 0,1:08:48.50,1:08:49.83,Default,,0000,0000,0000,,我明白\NI see.
+Dialogue: 0,1:08:50.16,1:08:52.96,Default,,0000,0000,0000,,给我电话如果你发现什么\NGive me a call if you find anything.
+Dialogue: 0,1:08:53.79,1:08:55.00,Default,,0000,0000,0000,,好\NYeah.
+Dialogue: 0,1:09:08.06,1:09:10.85,Default,,0000,0000,0000,,好像是大友干的\NIt seems Otomo did it.
+Dialogue: 0,1:09:20.07,1:09:22.15,Default,,0000,0000,0000,,我要告诉张\NI'll call Chang.
+Dialogue: 0,1:09:32.12,1:09:35.04,Default,,0000,0000,0000,,花菱的中田来电话\NA phone call from Mr. Nakata of the Hanabishi.
+Dialogue: 0,1:09:35.25,1:09:36.54,Default,,0000,0000,0000,,中田\NNakata?
+Dialogue: 0,1:09:39.75,1:09:42.88,Default,,0000,0000,0000,,告诉他秘书不方便接听\NTell him the secretary is unavailable to take messages.
+Dialogue: 0,1:09:43.01,1:09:44.72,Default,,0000,0000,0000,,好的明白\NYes, understood.
+Dialogue: 0,1:09:46.26,1:09:48.64,Default,,0000,0000,0000,,他的秘书不方便\NHis secretary is unavailable.
+Dialogue: 0,1:09:49.64,1:09:51.81,Default,,0000,0000,0000,,请晩些打来\NPlease call back later.
+Dialogue: 0,1:09:53.77,1:09:55.77,Default,,0000,0000,0000,,混蛋中田\NThat bastard Nakata.
+Dialogue: 0,1:09:56.44,1:09:59.19,Default,,0000,0000,0000,,他只会打电话抱怨\NHe only made calls and complained.
+Dialogue: 0,1:09:59.65,1:10:01.74,Default,,0000,0000,0000,,没用的东西\NA useless prick!
+Dialogue: 0,1:10:02.32,1:10:05.20,Default,,0000,0000,0000,,这个大友是个什么鬼\NWho the hell is this Otomo anyway?
+Dialogue: 0,1:10:05.32,1:10:09.74,Default,,0000,0000,0000,,他就是个无名小辈除掉他\NHe's just a punk. Get rid of him.
+Dialogue: 0,1:10:12.08,1:10:13.58,Default,,0000,0000,0000,,我已经安排好了\NI've arranged that.
+Dialogue: 0,1:10:13.71,1:10:16.54,Default,,0000,0000,0000,,看好社团 废物\NTake care of business. Incompetent!
+Dialogue: 0,1:10:16.67,1:10:17.67,Default,,0000,0000,0000,,好的\NYes.
+Dialogue: 0,1:10:29.14,1:10:31.01,Default,,0000,0000,0000,,尹先生派我们来的\NMr. Yoon sent us.
+Dialogue: 0,1:10:31.51,1:10:32.52,Default,,0000,0000,0000,,非常感谢\NThanks so much.
+Dialogue: 0,1:10:32.64,1:10:34.18,Default,,0000,0000,0000,,我们准备好了听后吩咐\NWe are ready and at your service.
+Dialogue: 0,1:10:35.31,1:10:36.98,Default,,0000,0000,0000,,大友先生\NAnd Mr. Otomo?
+Dialogue: 0,1:10:37.27,1:10:38.02,Default,,0000,0000,0000,,在车里\NIn the car.
+Dialogue: 0,1:10:39.73,1:10:40.40,Default,,0000,0000,0000,,晩上好\NGood evening.
+Dialogue: 0,1:10:41.11,1:10:42.03,Default,,0000,0000,0000,,进来\NGet in.
+Dialogue: 0,1:10:43.65,1:10:45.70,Default,,0000,0000,0000,,问问尹夫人在做什么\NAsk him how Mrs. Yoon is doing.
+Dialogue: 0,1:10:45.82,1:10:46.95,Default,,0000,0000,0000,,好\NYes.
+Dialogue: 0,1:10:47.49,1:10:50.08,Default,,0000,0000,0000,,尹夫人怎么样\NHow is Mrs. Yoon?
+Dialogue: 0,1:10:50.53,1:10:52.12,Default,,0000,0000,0000,,她很好\NShe's fine.
+Dialogue: 0,1:10:52.49,1:10:55.41,Default,,0000,0000,0000,,她向大友先生问好\NShe sends her regards to Mr. Otomo.
+Dialogue: 0,1:10:56.00,1:10:57.29,Default,,0000,0000,0000,,他说她很好\NHe said she's fine.
+Dialogue: 0,1:10:57.46,1:10:58.71,Default,,0000,0000,0000,,带她问好\NShe sends her regards.
+Dialogue: 0,1:10:58.83,1:10:59.71,Default,,0000,0000,0000,,杀了他们 市川\NKill them, Ichikawa!
+Dialogue: 0,1:11:18.60,1:11:20.15,Default,,0000,0000,0000,,我打中了我们自己人\NI shot my own man.
+Dialogue: 0,1:11:22.98,1:11:25.03,Default,,0000,0000,0000,,他们从哪来的\NWhere did they come from?
+Dialogue: 0,1:11:25.65,1:11:26.90,Default,,0000,0000,0000,,对不起\NSorry.
+Dialogue: 0,1:11:27.03,1:11:30.28,Default,,0000,0000,0000,,他说尹先生派他们来帮我们的\NHe said Mr. Yoon sent them to help us.
+Dialogue: 0,1:11:32.78,1:11:34.91,Default,,0000,0000,0000,,一定是花菱\NIt must be the Hanabishi.
+Dialogue: 0,1:11:38.62,1:11:42.17,Default,,0000,0000,0000,,他们准备了这些\NThey even prepared these.
+Dialogue: 0,1:11:47.80,1:11:49.76,Default,,0000,0000,0000,,只有我们两个人了\NOnly two of us left.
+Dialogue: 0,1:12:54.91,1:12:57.24,Default,,0000,0000,0000,,你拿了些垃圾武器\NYou got some mean weapons!
+Dialogue: 0,1:12:58.08,1:12:59.25,Default,,0000,0000,0000,,不要惊慌\NNo surprise.
+Dialogue: 0,1:12:59.75,1:13:01.83,Default,,0000,0000,0000,,被伏击了吗\NGot attacked?
+Dialogue: 0,1:13:02.25,1:13:03.58,Default,,0000,0000,0000,,我听说了\NSo I've heard.
+Dialogue: 0,1:13:04.46,1:13:06.67,Default,,0000,0000,0000,,放下武器\NPut down your weapons.
+Dialogue: 0,1:13:06.88,1:13:08.71,Default,,0000,0000,0000,,我们没有武器\NWe're unarmed.
+Dialogue: 0,1:13:13.55,1:13:15.51,Default,,0000,0000,0000,,我们谈谈吧\NLet's have a chat.
+Dialogue: 0,1:13:16.35,1:13:18.60,Default,,0000,0000,0000,,你命令他们这么做\NYou ordered them to do it?
+Dialogue: 0,1:13:18.77,1:13:21.43,Default,,0000,0000,0000,,为什么你不做\NWhy would we do that?
+Dialogue: 0,1:13:22.10,1:13:23.65,Default,,0000,0000,0000,,大友\NHey, Otomo!
+Dialogue: 0,1:13:26.19,1:13:28.82,Default,,0000,0000,0000,,是混蛋野村\NIt was that bastard Nomura.
+Dialogue: 0,1:13:31.74,1:13:33.45,Default,,0000,0000,0000,,好久不見\NLong time no see.
+Dialogue: 0,1:13:33.78,1:13:35.91,Default,,0000,0000,0000,,我以为你已经死了\NI thought you were dead.
+Dialogue: 0,1:13:36.66,1:13:38.33,Default,,0000,0000,0000,,不如你\NNo more than you.
+Dialogue: 0,1:13:38.79,1:13:41.79,Default,,0000,0000,0000,,野村差点把我杀了\NNomura almost got me killed.
+Dialogue: 0,1:13:42.37,1:13:44.92,Default,,0000,0000,0000,,但是我们有些人就是没有那么容易死\NBut some of us don't die easily.
+Dialogue: 0,1:13:48.04,1:13:49.38,Default,,0000,0000,0000,,这才刚刚开始\NIt all started
+Dialogue: 0,1:13:49.80,1:13:53.22,Default,,0000,0000,0000,,因为花田的愚蠢行动\Nwith Hanada's stupid actions.
+Dialogue: 0,1:13:54.51,1:13:56.51,Default,,0000,0000,0000,,尊重点\NShow some fucking respect!
+Dialogue: 0,1:14:03.31,1:14:06.23,Default,,0000,0000,0000,,我不知道到你是大友先生\NI didn't realize you were Mr. Otomo.
+Dialogue: 0,1:14:06.94,1:14:10.32,Default,,0000,0000,0000,,很抱歉在济州島做了那样的事情\NI apologize for my behavior in Jeju.
+Dialogue: 0,1:14:10.82,1:14:12.53,Default,,0000,0000,0000,,请原谅我\NPlease forgive me.
+Dialogue: 0,1:14:13.74,1:14:19.24,Default,,0000,0000,0000,,如果你告诉我你是谁结果就会不一样\NThings would have been different if you had told me who you were.
+Dialogue: 0,1:14:22.83,1:14:27.83,Default,,0000,0000,0000,,你老板和我在花田的事情上达成了协议\NYour boss and I reached an agreement concerning Hanada.
+Dialogue: 0,1:14:28.71,1:14:35.47,Default,,0000,0000,0000,,但野村又去插手别人的事情\NBut Nomura put his nose in other people's business again.
+Dialogue: 0,1:14:36.89,1:14:39.30,Default,,0000,0000,0000,,没有什么可以做了\NThere's nothing left to do.
+Dialogue: 0,1:14:39.93,1:14:41.81,Default,,0000,0000,0000,,他必须退休了\NHe must retire!
+Dialogue: 0,1:14:42.60,1:14:46.85,Default,,0000,0000,0000,,你老板更喜欢这样对吗\NYour boss prefers that. Doesn't he?
+Dialogue: 0,1:14:48.52,1:14:52.53,Default,,0000,0000,0000,,你能前嫌尽释吗\NCan you put all that behind us?
+Dialogue: 0,1:14:53.74,1:14:56.20,Default,,0000,0000,0000,,也许能助我们一臂之力\NMaybe give us a helping hand?
+Dialogue: 0,1:14:58.07,1:15:03.54,Default,,0000,0000,0000,,我们为河野干部考备了一场欢迎会\NWe're throwing a welcome home party for an executive named Kono.
+Dialogue: 0,1:15:04.25,1:15:07.92,Default,,0000,0000,0000,,那混蛋野村应该在那\NThat bastard Nomura will be there.
+Dialogue: 0,1:15:09.83,1:15:12.05,Default,,0000,0000,0000,,我想你\NI want you...
+Dialogue: 0,1:15:13.55,1:15:15.55,Default,,0000,0000,0000,,把他处理了\Nto dispose of him.
+Dialogue: 0,1:15:17.88,1:15:19.30,Default,,0000,0000,0000,,我要把\NI will give you
+Dialogue: 0,1:15:19.97,1:15:23.89,Default,,0000,0000,0000,,木村组交给你 只要你圆满完成任务\Nthe Kimura family if you can pull it off.
+Dialogue: 0,1:15:25.52,1:15:26.77,Default,,0000,0000,0000,,我不要\NI don't want it.
+Dialogue: 0,1:16:21.11,1:16:22.91,Default,,0000,0000,0000,,所以你不想去\NSo you won't go?
+Dialogue: 0,1:16:23.07,1:16:23.99,Default,,0000,0000,0000,,不\NNo.
+Dialogue: 0,1:16:24.12,1:16:26.58,Default,,0000,0000,0000,,这派对为他准备的\NThe party's for him,
+Dialogue: 0,1:16:26.95,1:16:29.96,Default,,0000,0000,0000,,但是他的手下杀了人\Nbut his soldier did the killing.
+Dialogue: 0,1:16:30.12,1:16:32.46,Default,,0000,0000,0000,,他在牢里被关了五年\NHe served five years.
+Dialogue: 0,1:16:32.63,1:16:36.96,Default,,0000,0000,0000,,我为什么要给他一大笔钱?\NWhy should I give him exorbitant gift money?
+Dialogue: 0,1:16:37.09,1:16:39.97,Default,,0000,0000,0000,,是我提拔他做干部的\NI promoted him to executive.
+Dialogue: 0,1:16:40.22,1:16:43.14,Default,,0000,0000,0000,,好 我会通知他们\NFine. I'll inform them.
+Dialogue: 0,1:16:50.31,1:16:52.48,Default,,0000,0000,0000,,欢迎回来河野先生\NWelcome Home, Mr. Naoki Kono.
+Dialogue: 0,1:16:52.60,1:16:54.48,Default,,0000,0000,0000,,这边请 河野!\NWay to go, Kono!
+Dialogue: 0,1:17:12.46,1:17:15.13,Default,,0000,0000,0000,,事情怎么样了? -野村先生不来了\NWhat's going on? Mr. Nomura is not coming.
+Dialogue: 0,1:17:15.25,1:17:16.29,Default,,0000,0000,0000,,没来?\NNo?
+Dialogue: 0,1:17:18.84,1:17:21.34,Default,,0000,0000,0000,,那个贪婪的混蛋!\NTypical of that greedy bastard!
+Dialogue: 0,1:17:22.43,1:17:24.84,Default,,0000,0000,0000,,这样更好\NAll the better.
+Dialogue: 0,1:17:25.64,1:17:30.27,Default,,0000,0000,0000,,在他不在的时候我要宣布一两件事\NIn his absence, I'll announce a thing or two
+Dialogue: 0,1:17:31.14,1:17:33.52,Default,,0000,0000,0000,,然后炫耀下枪支\Nand show off some guns.
+Dialogue: 0,1:17:33.65,1:17:35.77,Default,,0000,0000,0000,,所有人都会到我这边来\NEveryone will jump to my side.
+Dialogue: 0,1:17:35.90,1:17:37.02,Default,,0000,0000,0000,,是\NYes.
+Dialogue: 0,1:17:37.15,1:17:42.20,Default,,0000,0000,0000,,还有 大友会支持我的 给他发个信息\NBy the way, Otomo will have my back. Send him a message.
+Dialogue: 0,1:17:42.70,1:17:46.07,Default,,0000,0000,0000,,告诉他我们取消了暗杀野村的计划\NTell him we call off the plan to shoot Nomura.
+Dialogue: 0,1:17:46.20,1:17:50.33,Default,,0000,0000,0000,,之前我检査的时候发现他不在\NHe wasn't there the last time I checked.
+Dialogue: 0,1:17:50.70,1:17:52.08,Default,,0000,0000,0000,,什么?\NWhat?
+Dialogue: 0,1:17:52.66,1:17:54.17,Default,,0000,0000,0000,,他真没用\NHe's useless.
+Dialogue: 0,1:17:55.42,1:17:59.71,Default,,0000,0000,0000,,感谢大家来参加这个聚会\NThank you for such a great party.
+Dialogue: 0,1:18:00.13,1:18:04.84,Default,,0000,0000,0000,,我感到很荣幸\NI am greatly humbled to be in the presence
+Dialogue: 0,1:18:05.39,1:18:08.30,Default,,0000,0000,0000,,能有这么多我的上级来参加\Nof so many of my superiors.
+Dialogue: 0,1:18:08.64,1:18:11.89,Default,,0000,0000,0000,,这是对我的盛誉\NThe honor is more than I deserve.
+Dialogue: 0,1:18:15.14,1:18:18.86,Default,,0000,0000,0000,,野村组长 西野若头\NChairman Nomura, Underboss Nishino,
+Dialogue: 0,1:18:18.98,1:18:21.86,Default,,0000,0000,0000,,还有若头輔佐们\Nand ranking deputy underbosses,
+Dialogue: 0,1:18:21.98,1:18:24.74,Default,,0000,0000,0000,,我不会辜负你们对我的信任\NI shall honor your confidence in me.
+Dialogue: 0,1:18:25.24,1:18:28.32,Default,,0000,0000,0000,,我会为花菱组的荣誉而奋斗\NI am dedicated to Hanabishi prosperity...
+Dialogue: 0,1:18:29.78,1:18:32.08,Default,,0000,0000,0000,,若头!\NUnderboss!
+Dialogue: 0,1:18:32.54,1:18:33.87,Default,,0000,0000,0000,,河野\NKono.
+Dialogue: 0,1:18:34.12,1:18:36.25,Default,,0000,0000,0000,,抱歉 扫兴了\NSorry to crash your party.
+Dialogue: 0,1:18:39.59,1:18:40.80,Default,,0000,0000,0000,,大家听着\NListen up.
+Dialogue: 0,1:18:46.01,1:18:47.72,Default,,0000,0000,0000,,几天前\NA few days ago,
+Dialogue: 0,1:18:49.14,1:18:52.93,Default,,0000,0000,0000,,我你们的西野若头\NI, Underboss Nishino,
+Dialogue: 0,1:18:54.27,1:18:56.27,Default,,0000,0000,0000,,差点被\Nwas nearly killed
+Dialogue: 0,1:18:56.44,1:18:59.61,Default,,0000,0000,0000,,野村组长干掉\Nby Chairman Nomura.
+Dialogue: 0,1:19:03.23,1:19:06.57,Default,,0000,0000,0000,,如果不是中田提前告诉我\NIf Nakata had not told me beforehand,
+Dialogue: 0,1:19:06.82,1:19:09.95,Default,,0000,0000,0000,,我这个人早就死了\NI would have been wiped from existence.
+Dialogue: 0,1:19:10.53,1:19:11.78,Default,,0000,0000,0000,,明白了吗?\NSee?
+Dialogue: 0,1:19:15.00,1:19:16.58,Default,,0000,0000,0000,,你们得知道\NYou should know,
+Dialogue: 0,1:19:16.96,1:19:22.13,Default,,0000,0000,0000,,在你们为了组里在拼命工作时\Nyou who work your asses off to serve the family...
+Dialogue: 0,1:19:22.84,1:19:25.76,Default,,0000,0000,0000,,野村他根本就不在乎你们\NNomura doesn't care shit about you.
+Dialogue: 0,1:19:27.13,1:19:30.05,Default,,0000,0000,0000,,现在我只想说\NAll this to now say,
+Dialogue: 0,1:19:31.64,1:19:35.39,Default,,0000,0000,0000,,我要断绝对他的忠诚关系\NI must sever my loyal ties to him.
+Dialogue: 0,1:19:38.69,1:19:40.48,Default,,0000,0000,0000,,我要问你们\NI ask you this:
+Dialogue: 0,1:19:43.02,1:19:44.82,Default,,0000,0000,0000,,是支持野村\NSide with Nomura
+Dialogue: 0,1:19:45.82,1:19:47.61,Default,,0000,0000,0000,,还是支持我\Nor side with me.
+Dialogue: 0,1:19:49.45,1:19:51.16,Default,,0000,0000,0000,,现在就选\NChoose now.
+Dialogue: 0,1:19:52.41,1:19:53.62,Default,,0000,0000,0000,,晩上好\NGood evening.
+Dialogue: 0,1:19:54.24,1:19:55.66,Default,,0000,0000,0000,,请签到\NSign in, please.
+Dialogue: 0,1:20:21.85,1:20:23.27,Default,,0000,0000,0000,,大友!\NOtomo!
+Dialogue: 0,1:20:23.52,1:20:25.53,Default,,0000,0000,0000,,谁让你开枪的?\NWho told you to shoot?
+Dialogue: 0,1:20:27.53,1:20:32.62,Default,,0000,0000,0000,,疯子!你真是疯了\NMad motherfucker! You're out of your fucking mind.
+Dialogue: 0,1:20:33.87,1:20:35.41,Default,,0000,0000,0000,,疯子l\NMad motherfucker!
+Dialogue: 0,1:20:51.63,1:20:55.68,Default,,0000,0000,0000,,你确定野村就在家里?\NAre you sure Nomura is at home?
+Dialogue: 0,1:20:56.06,1:20:59.23,Default,,0000,0000,0000,,是的我检査过了\NYes. I had them check.
+Dialogue: 0,1:21:03.65,1:21:05.82,Default,,0000,0000,0000,,大友那个恶魔\NThat fiend Otomo
+Dialogue: 0,1:21:06.65,1:21:08.90,Default,,0000,0000,0000,,把所有能动的活人 都打死了\Nshot everything that moved.
+Dialogue: 0,1:21:09.57,1:21:12.24,Default,,0000,0000,0000,,他可能把整个花菱组灭口了\NHe might have killed every Hanabishi.
+Dialogue: 0,1:21:15.74,1:21:20.25,Default,,0000,0000,0000,,不管怎么样 我都要把大友碎尸万段\NI would have crushed Otomo in any other situation.
+Dialogue: 0,1:21:21.79,1:21:23.25,Default,,0000,0000,0000,,别想了\NForget it.
+Dialogue: 0,1:21:24.42,1:21:26.38,Default,,0000,0000,0000,,那个混蛋野村\NThat fucker Nomura,
+Dialogue: 0,1:21:27.46,1:21:29.51,Default,,0000,0000,0000,,大友可以抓住他的!\NOtomo can have him!
+Dialogue: 0,1:21:43.31,1:21:45.27,Default,,0000,0000,0000,,他把所有人都灭口了?\NHe killed all of them?
+Dialogue: 0,1:21:45.98,1:21:48.57,Default,,0000,0000,0000,,中田 你被组织除名了\NNakata, you're banished.
+Dialogue: 0,1:21:49.23,1:21:53.32,Default,,0000,0000,0000,,如果所有人都死了 我们会怎么样?\NWhat would happen to us if all our guys got killed?
+Dialogue: 0,1:21:54.49,1:21:55.82,Default,,0000,0000,0000,,我会让你知道的\NI'll tell you.
+Dialogue: 0,1:21:58.45,1:22:00.45,Default,,0000,0000,0000,,这是你的计划\NIt was your plan.
+Dialogue: 0,1:22:01.45,1:22:03.29,Default,,0000,0000,0000,,你被组织除名了\NYou're banished.
+Dialogue: 0,1:22:04.12,1:22:05.46,Default,,0000,0000,0000,,是你吗?\NIs that you?
+Dialogue: 0,1:22:05.63,1:22:08.09,Default,,0000,0000,0000,,西野你还活着!\NNishino, you're still alive!
+Dialogue: 0,1:22:09.05,1:22:11.55,Default,,0000,0000,0000,,还活着?这个话不听\NStill? That's not nice.
+Dialogue: 0,1:22:13.76,1:22:18.89,Default,,0000,0000,0000,,你和中田两个人在密谋把我给赶走\NYou were plotting with Nakata to rub me out.
+Dialogue: 0,1:22:20.60,1:22:26.31,Default,,0000,0000,0000,,中田好心地告诉了我所有事情\NNice guy Mr. Nakata kindly informed me of everything.
+Dialogue: 0,1:22:26.48,1:22:28.86,Default,,0000,0000,0000,,不要这样对你的义父说话\NThat's no way to speak to your sworn father.
+Dialogue: 0,1:22:28.98,1:22:30.36,Default,,0000,0000,0000,,去你的义父!\NScrew your father-son bullshit!
+Dialogue: 0,1:22:30.48,1:22:31.61,Default,,0000,0000,0000,,中田!\NNakata!
+Dialogue: 0,1:22:32.57,1:22:34.95,Default,,0000,0000,0000,,你怎么敢背叛你的老大?\NHow dare you betray your boss?
+Dialogue: 0,1:22:35.40,1:22:38.74,Default,,0000,0000,0000,,你觉得谁更重要?义父还是兄弟?\NWho's more important? Sworn father or brother?
+Dialogue: 0,1:22:41.16,1:22:42.08,Default,,0000,0000,0000,,野村…\NNomura...
+Dialogue: 0,1:22:44.50,1:22:48.88,Default,,0000,0000,0000,,我们从来没觉得\NWe never ever thought of you
+Dialogue: 0,1:22:49.25,1:22:52.34,Default,,0000,0000,0000,,你是个黑帮或者是义父\Nas a yakuza nor a father.
+Dialogue: 0,1:22:55.22,1:22:57.43,Default,,0000,0000,0000,,你身上没有纹身\NYou don't have tattoos.
+Dialogue: 0,1:22:57.97,1:23:00.30,Default,,0000,0000,0000,,你也没坐过牢\NYou've never been to prison.
+Dialogue: 0,1:23:01.60,1:23:05.35,Default,,0000,0000,0000,,你就是个外行!\NYou're a fucking amateur!
+Dialogue: 0,1:23:06.10,1:23:10.69,Default,,0000,0000,0000,,一个外行天天自称是花菱组组长\NA fucking amateur who calls himself chairman of the Hanabishi.
+Dialogue: 0,1:23:15.61,1:23:17.03,Default,,0000,0000,0000,,别骗我们了!\NYou can't fool us!
+Dialogue: 0,1:23:17.32,1:23:19.82,Default,,0000,0000,0000,,森島 动手\NMorishima, do something about him.
+Dialogue: 0,1:23:19.99,1:23:21.45,Default,,0000,0000,0000,,我为什么要在意?\NWhy should I care?
+Dialogue: 0,1:23:22.03,1:23:27.37,Default,,0000,0000,0000,,没了小弟你就是个退休 的办公室职员\NYou're just a retired office worker without your henchmen.\N本字幕首发于字幕库 www.zimuku.cn
+Dialogue: 0,1:23:27.54,1:23:28.87,Default,,0000,0000,0000,,你也这样?\NYou too?
+Dialogue: 0,1:23:29.00,1:23:30.50,Default,,0000,0000,0000,,你也要背叛我?\NYou're betraying me?
+Dialogue: 0,1:23:30.67,1:23:33.34,Default,,0000,0000,0000,,背叛这个词太严重了\NBetray is too strong a word.
+Dialogue: 0,1:23:33.46,1:23:38.22,Default,,0000,0000,0000,,听着好像我以前一直是你的人\NIt gives the impression that I was on your side.
+Dialogue: 0,1:23:39.72,1:23:42.05,Default,,0000,0000,0000,,原谅我组长\NForgive me, Chairman.
+Dialogue: 0,1:23:46.77,1:23:49.81,Default,,0000,0000,0000,,你们会为此后悔的\NYou'll all regret this.
+Dialogue: 0,1:23:49.98,1:23:51.06,Default,,0000,0000,0000,,嘿\NHey,
+Dialogue: 0,1:23:52.31,1:23:53.65,Default,,0000,0000,0000,,野村\NNomura.
+Dialogue: 0,1:23:53.86,1:23:57.03,Default,,0000,0000,0000,,如果你是个真正的黑道人\NIf you're a real yakuza,
+Dialogue: 0,1:23:57.40,1:24:00.87,Default,,0000,0000,0000,,被子弹打穿就是你的结局\Nthen pumping you with bullets is your end.
+Dialogue: 0,1:24:01.82,1:24:06.75,Default,,0000,0000,0000,,我可以告诉你 黑帮到底有多可怕\NI can show you how gruesome yakuza really are.
+Dialogue: 0,1:24:11.29,1:24:13.46,Default,,0000,0000,0000,,把他带出去 -是!\NTake him out. Yes!
+Dialogue: 0,1:24:16.59,1:24:18.22,Default,,0000,0000,0000,,你在干什么?\NWhat are you doing?
+Dialogue: 0,1:24:18.34,1:24:20.26,Default,,0000,0000,0000,,把你的手拿开!\NTake your hands off me!
+Dialogue: 0,1:24:20.38,1:24:22.26,Default,,0000,0000,0000,,我是你的组长!\NI'm your Chairman!
+Dialogue: 0,1:24:41.61,1:24:43.28,Default,,0000,0000,0000,,出去!\NGet out!
+Dialogue: 0,1:24:45.79,1:24:47.12,Default,,0000,0000,0000,,住手l\NStop it!
+Dialogue: 0,1:24:47.24,1:24:48.62,Default,,0000,0000,0000,,你是谁?\NWho are you?
+Dialogue: 0,1:24:50.87,1:24:53.46,Default,,0000,0000,0000,,我说话算话\NJust as I promised.
+Dialogue: 0,1:24:54.46,1:24:57.42,Default,,0000,0000,0000,,大友你来干什么?\NOtomo, what are you doing?
+Dialogue: 0,1:24:57.55,1:25:00.76,Default,,0000,0000,0000,,我是花菱组的组长\NI'm Chairman of the Hanabishi.
+Dialogue: 0,1:25:01.01,1:25:03.80,Default,,0000,0000,0000,,你没这个能力胜任\NYou don't have what it takes.
+Dialogue: 0,1:25:06.22,1:25:08.10,Default,,0000,0000,0000,,我带你去\NI'm going to take you
+Dialogue: 0,1:25:08.39,1:25:10.77,Default,,0000,0000,0000,,挖点东西\Non a little excavation.
+Dialogue: 0,1:25:18.78,1:25:22.15,Default,,0000,0000,0000,,那边有人吗?\NAnybody out there?
+Dialogue: 0,1:25:27.20,1:25:29.58,Default,,0000,0000,0000,,救命!有人被困住了!\NHelp! A man's stuck down here!
+Dialogue: 0,1:25:30.66,1:25:31.87,Default,,0000,0000,0000,,救命!\NHelp!
+Dialogue: 0,1:25:36.54,1:25:37.80,Default,,0000,0000,0000,,噢 该死!\NOh, shit!
+Dialogue: 0,1:25:38.17,1:25:40.13,Default,,0000,0000,0000,,不 不 我在这\NNo, no. I'm here.
+Dialogue: 0,1:25:40.38,1:25:43.43,Default,,0000,0000,0000,,我被困在这儿了\NI'm stuck down here.
+Dialogue: 0,1:25:50.18,1:25:52.23,Default,,0000,0000,0000,,就差那么一点儿\NThat was fucking close!
+Dialogue: 0,1:25:54.98,1:25:58.19,Default,,0000,0000,0000,,你差点杀了我\NYou could have killed me.
+Dialogue: 0,1:26:08.16,1:26:09.20,Default,,0000,0000,0000,,不…\NNo...
+Dialogue: 0,1:26:09.41,1:26:11.83,Default,,0000,0000,0000,,下面这里!\NDown here!
+Dialogue: 0,1:26:16.96,1:26:18.38,Default,,0000,0000,0000,,下面这里!\NDown here!
+Dialogue: 0,1:26:26.22,1:26:28.89,Default,,0000,0000,0000,,我们跟花菱组和解了\NWe have settled with the Hanabishi.
+Dialogue: 0,1:26:32.06,1:26:34.35,Default,,0000,0000,0000,,那怎么替河野报仇?\NHow do we avenge Ko's death?
+Dialogue: 0,1:26:35.23,1:26:37.23,Default,,0000,0000,0000,,我有主意\NI have some ideas.
+Dialogue: 0,1:26:38.19,1:26:39.15,Default,,0000,0000,0000,,好\NGood.
+Dialogue: 0,1:27:01.80,1:27:04.88,Default,,0000,0000,0000,,事情一直有些复杂\NThere have been some complications.
+Dialogue: 0,1:27:05.38,1:27:07.80,Default,,0000,0000,0000,,野村已经死了\NMr. Nomura has passed on.
+Dialogue: 0,1:27:09.22,1:27:11.39,Default,,0000,0000,0000,,我们这些活下来的\NWe, survivors,
+Dialogue: 0,1:27:12.39,1:27:18.40,Default,,0000,0000,0000,,必须齐心协力重建组织\Nmust work hard to restore the family.
+Dialogue: 0,1:27:20.86,1:27:22.78,Default,,0000,0000,0000,,今天\NAs of today,
+Dialogue: 0,1:27:23.82,1:27:27.53,Default,,0000,0000,0000,,花菱组換了新组长\Nthe Hanabishi is under new administration.
+Dialogue: 0,1:27:29.82,1:27:36.04,Default,,0000,0000,0000,,我任命自己成为你们新的组长\NI am appointing myself as your new Chairman.
+Dialogue: 0,1:27:37.54,1:27:40.79,Default,,0000,0000,0000,,中田是你们的若头\NNakata is your underboss.
+Dialogue: 0,1:27:41.50,1:27:46.26,Default,,0000,0000,0000,,花田是若头輔佐\NHanada is a deputy underboss.
+Dialogue: 0,1:27:48.38,1:27:55.77,Default,,0000,0000,0000,,我希望新的管理者能够齐心协力重现组织的繁荣\NI expect the new administration to commit to achieving prosperity.
+Dialogue: 0,1:27:55.93,1:27:56.81,Default,,0000,0000,0000,,是的组长!\NYes, sir!
+Dialogue: 0,1:27:56.93,1:27:57.94,Default,,0000,0000,0000,,好\NFine.
+Dialogue: 0,1:28:04.69,1:28:05.86,Default,,0000,0000,0000,,先生\NSir.
+Dialogue: 0,1:28:07.90,1:28:09.32,Default,,0000,0000,0000,,等一下\NOne moment.
+Dialogue: 0,1:28:09.91,1:28:10.99,Default,,0000,0000,0000,,谢谢\NThanks.
+Dialogue: 0,1:28:12.16,1:28:14.49,Default,,0000,0000,0000,,是什么?\NYes. What is it?
+Dialogue: 0,1:28:15.79,1:28:18.41,Default,,0000,0000,0000,,真的吗?怎么样了?\NReally? How was it?
+Dialogue: 0,1:28:19.00,1:28:21.13,Default,,0000,0000,0000,,太过分!\NToo much!
+Dialogue: 0,1:28:21.75,1:28:23.63,Default,,0000,0000,0000,,我的想法?\NMy answer?
+Dialogue: 0,1:28:24.00,1:28:25.50,Default,,0000,0000,0000,,当然是的\NOf course, yes!
+Dialogue: 0,1:28:26.55,1:28:28.30,Default,,0000,0000,0000,,再見\NBye.
+Dialogue: 0,1:28:28.92,1:28:30.47,Default,,0000,0000,0000,,花田 -是\NHanada. Yes?
+Dialogue: 0,1:28:30.59,1:28:34.18,Default,,0000,0000,0000,,你怎么看起来那么累?又出去找女人了?\NWhy are you so wired? Going out for women again?
+Dialogue: 0,1:28:34.72,1:28:36.18,Default,,0000,0000,0000,,是有点累\NSort of.
+Dialogue: 0,1:28:37.06,1:28:42.77,Default,,0000,0000,0000,,西野先生和中田先生给我的庆祝活动安排了些站娘\NMr. Nishino and Mr. Nakata arranged some girls for my celebration.
+Dialogue: 0,1:28:42.90,1:28:45.77,Default,,0000,0000,0000,,你连个靠谱的亲信都没有\NYou don't even have proper henchmen.
+Dialogue: 0,1:28:45.90,1:28:48.78,Default,,0000,0000,0000,,他们只在你钱给的多的时候才口所从你\NThey only treat you nicely because you pay a lot.
+Dialogue: 0,1:28:49.74,1:28:51.95,Default,,0000,0000,0000,,想一起来吗 兄弟?\NWant to come along, brother?
+Dialogue: 0,1:28:52.07,1:28:54.58,Default,,0000,0000,0000,,我可不赞成你这个曲解的观点\NI don't approve of your perversions.
+Dialogue: 0,1:29:02.50,1:29:06.88,Default,,0000,0000,0000,,服从官僚是你在警察队伍中取得成功的唯一途径\NObeying bureaucracy is the only way to get ahead on the police force.
+Dialogue: 0,1:29:07.21,1:29:10.92,Default,,0000,0000,0000,,繁田 别这么愤青好吧\NShigeta, don't be so cynical.
+Dialogue: 0,1:29:12.38,1:29:14.47,Default,,0000,0000,0000,,那你给我点新鲜的\NGive me an update.
+Dialogue: 0,1:29:14.60,1:29:17.31,Default,,0000,0000,0000,,我被一个公开案子排除在外了\NI was thrown off an open case.
+Dialogue: 0,1:29:17.56,1:29:23.56,Default,,0000,0000,0000,,野村计划灭口西野 然后提拔中田顶替他\NNomura plotted to kill Nishino and to promote Nakata in his place.
+Dialogue: 0,1:29:23.73,1:29:28.40,Default,,0000,0000,0000,,西野和中田秘密联手欺骗了野村\NNishino and Nakata corresponded secretly to deceive Nomura.
+Dialogue: 0,1:29:28.53,1:29:31.74,Default,,0000,0000,0000,,官方的报道把这件事归咎于另一个组织\NThe official story blames another family.
+Dialogue: 0,1:29:31.86,1:29:34.24,Default,,0000,0000,0000,,没人了解真相\NNo one knows the real truth.
+Dialogue: 0,1:29:36.12,1:29:37.16,Default,,0000,0000,0000,,真的?\NReally?
+Dialogue: 0,1:29:40.25,1:29:42.33,Default,,0000,0000,0000,,恭喜晋升!\NCongratulations on your promotion.
+Dialogue: 0,1:29:42.83,1:29:45.42,Default,,0000,0000,0000,,少讽刺了\NNo need for sarcasm.
+Dialogue: 0,1:29:46.59,1:29:49.00,Default,,0000,0000,0000,,别客气 我请客\NDon't bother. It's my treat.
+Dialogue: 0,1:29:50.63,1:29:52.76,Default,,0000,0000,0000,,辞职信\NLetter of Resignation.
+Dialogue: 0,1:30:32.30,1:30:34.30,Default,,0000,0000,0000,,西野先生通知我了\NMr. Nishino informed me.
+Dialogue: 0,1:30:34.43,1:30:36.55,Default,,0000,0000,0000,,入口在那边\NThe entrance is that way.
+Dialogue: 0,1:30:37.55,1:30:38.60,Default,,0000,0000,0000,,好\NFine.
+Dialogue: 0,1:30:39.60,1:30:41.43,Default,,0000,0000,0000,,你来了\NBut you're coming.
+Dialogue: 0,1:31:00.87,1:31:02.08,Default,,0000,0000,0000,,坐\NSit down.
+Dialogue: 0,1:31:09.13,1:31:11.84,Default,,0000,0000,0000,,你在那干吗?\NWhat are you doing here?
+Dialogue: 0,1:31:17.89,1:31:19.18,Default,,0000,0000,0000,,长得不错!\NGood look!
+Dialogue: 0,1:31:20.18,1:31:21.76,Default,,0000,0000,0000,,你俩可以走了\NYou two can go.
+Dialogue: 0,1:31:26.02,1:31:28.31,Default,,0000,0000,0000,,一会儿你嘴里会冒出烟花的\NYour mouth will see fireworks.
+Dialogue: 0,1:31:43.04,1:31:44.37,Default,,0000,0000,0000,,大友!\NOtomo!
+Dialogue: 0,1:32:22.12,1:32:24.54,Default,,0000,0000,0000,,你们想说什么?\NWhat do you want to talk about?
+Dialogue: 0,1:32:24.66,1:32:27.08,Default,,0000,0000,0000,,我听说花田被杀了\NI heard Hanada was attacked.
+Dialogue: 0,1:32:27.25,1:32:29.08,Default,,0000,0000,0000,,这儿可能不安全\NIt may not be safe here.
+Dialogue: 0,1:32:29.37,1:32:30.42,Default,,0000,0000,0000,,是的\NRight.
+Dialogue: 0,1:32:30.92,1:32:32.46,Default,,0000,0000,0000,,一点都不安全\NNot safe at all.
+Dialogue: 0,1:32:55.02,1:32:56.44,Default,,0000,0000,0000,,有人吗?\NHello?
+Dialogue: 0,1:32:56.57,1:32:59.78,Default,,0000,0000,0000,,大友突袭了我们的办公室\NOtomo made a raid on our office.
+Dialogue: 0,1:33:01.15,1:33:05.03,Default,,0000,0000,0000,,让我们单独呆会\NGive us a moment alone.
+Dialogue: 0,1:33:05.87,1:33:07.29,Default,,0000,0000,0000,,好的\NExcuse me.
+Dialogue: 0,1:33:15.04,1:33:19.26,Default,,0000,0000,0000,,大友对于我们的要求出乎意料地非常合作\NOtomo was unexpectedly cooperative about our requests.
+Dialogue: 0,1:33:19.51,1:33:22.97,Default,,0000,0000,0000,,我也没料到他会把花田灭口\NI didn't expect him to eliminate Hanada.
+Dialogue: 0,1:33:23.39,1:33:25.01,Default,,0000,0000,0000,,不过也是理所当然\NBut of course.
+Dialogue: 0,1:33:25.60,1:33:30.31,Default,,0000,0000,0000,,毕竟花田是问题的福根\NAfter all, Hanada was the source of the problem.
+Dialogue: 0,1:33:31.23,1:33:36.40,Default,,0000,0000,0000,,对于自己该做的事 大友真的是一丝不苟\NOtomo is quite meticulous when it comes to sense of duty.
+Dialogue: 0,1:33:37.02,1:33:41.28,Default,,0000,0000,0000,,只要我们不动张\NAs long as we don't touch Chang,
+Dialogue: 0,1:33:41.45,1:33:43.66,Default,,0000,0000,0000,,他会按照我们说的做\Nhe'll do what we ask.
+Dialogue: 0,1:33:45.87,1:33:47.66,Default,,0000,0000,0000,,多谢了他\NThanks to him,
+Dialogue: 0,1:33:48.16,1:33:52.66,Default,,0000,0000,0000,,我们才能控制得了花田的地盘和收入\Nwe got control of Hanada's turf and revenue.
+Dialogue: 0,1:33:52.87,1:33:55.83,Default,,0000,0000,0000,,你现在的手段真是越来越厉害\NYour methods are increasingly more intricate.
+Dialogue: 0,1:33:56.75,1:34:01.67,Default,,0000,0000,0000,,当他让整个聚会陷入混乱时 我整个人都紧张了\NMy blood froze when he went haywire at the party.
+Dialogue: 0,1:34:02.34,1:34:06.43,Default,,0000,0000,0000,,你们打算对大友做什么?\NWhat do you plan to do about Otomo?
+Dialogue: 0,1:34:08.01,1:34:09.89,Default,,0000,0000,0000,,大友!\NOtomo!
+Dialogue: 0,1:34:13.02,1:34:16.27,Default,,0000,0000,0000,,他给花菱组造成了毁灭性的打击\NHe wreaked havoc on the Hanabishi.
+Dialogue: 0,1:34:17.02,1:34:23.20,Default,,0000,0000,0000,,那个老派的流氓的确是对我们很有帮助\NThat old-fashioned gangster definitely served us well.
+Dialogue: 0,1:34:24.70,1:34:26.57,Default,,0000,0000,0000,,我们要让他走到痛苦的尽头\NWe go for him to the bitter end.
+Dialogue: 0,1:34:29.20,1:34:30.83,Default,,0000,0000,0000,,你要做什么?\NWhat will you do?
+Dialogue: 0,1:34:32.45,1:34:38.59,Default,,0000,0000,0000,,张手下的那个李说他来做这件事\NThat guy Lee who works for Chang said he would take on the task.
+Dialogue: 0,1:34:39.04,1:34:43.34,Default,,0000,0000,0000,,我们对花田被谋杀非常气愤\NWe are annoyed at Hanada's murder.
+Dialogue: 0,1:34:43.97,1:34:48.72,Default,,0000,0000,0000,,他们得给个说法\NWe want them to settle the score.
+Dialogue: 0,1:34:49.39,1:34:52.89,Default,,0000,0000,0000,,我就是这么告诉李的\NThat's what we tell Lee.
+Dialogue: 0,1:35:10.28,1:35:13.08,Default,,0000,0000,0000,,西野打电话和我说\NNishino called to inform me.
+Dialogue: 0,1:35:13.91,1:35:16.08,Default,,0000,0000,0000,,花田被杀了\NHanada has been killed.
+Dialogue: 0,1:35:20.00,1:35:23.38,Default,,0000,0000,0000,,我解释说我们并没有参与这件事\NI explained we had no part in it.
+Dialogue: 0,1:35:30.89,1:35:32.51,Default,,0000,0000,0000,,告诉大友\NTell Otomo
+Dialogue: 0,1:35:33.64,1:35:37.06,Default,,0000,0000,0000,,如果他是为了我 那他做的已经够多了\Nif he did it for me, then he's done enough.
+Dialogue: 0,1:35:46.15,1:35:47.36,Default,,0000,0000,0000,,谢谢你\NThank you.
+Dialogue: 0,1:35:51.66,1:35:54.45,Default,,0000,0000,0000,,如果你要来济州島告诉我\NLet me know if you come to Jeju.
+Dialogue: 0,1:35:54.58,1:35:56.29,Default,,0000,0000,0000,,我带你转转\NI'll take you around.
+Dialogue: 0,1:35:57.87,1:35:59.79,Default,,0000,0000,0000,,我们一块芸芸泡菜锅\NWe'll try that kimchi stew.
+Dialogue: 0,1:36:02.17,1:36:03.80,Default,,0000,0000,0000,,你什么时候回去?\NWhen will you be back?
+Dialogue: 0,1:36:05.46,1:36:07.47,Default,,0000,0000,0000,,我还有事没做完\NI still have something to do.
+Dialogue: 0,1:36:10.72,1:36:12.30,Default,,0000,0000,0000,,做事别太鲁莽\NDon't be too reckless.
+Dialogue: 0,1:36:15.02,1:36:17.73,Default,,0000,0000,0000,,我该走了\NI should get going.
+Dialogue: 0,1:36:29.40,1:36:33.12,Default,,0000,0000,0000,,我们没想给日本警察惹麻烦\NWe have no intention of making trouble for the Japanese police.
+Dialogue: 0,1:36:35.08,1:36:36.33,Default,,0000,0000,0000,,谢谢\NThank you.
+Dialogue: 0,1:36:39.33,1:36:41.33,Default,,0000,0000,0000,,大友离开了吗?\NDid Otomo leave?
+Dialogue: 0,1:36:41.46,1:36:44.71,Default,,0000,0000,0000,,是的一分钟前市川打电话说了\NYes. Ichikawa called a minute ago.
+Dialogue: 0,1:36:45.30,1:36:46.80,Default,,0000,0000,0000,,告诉他…\NTell him...
+Dialogue: 0,1:36:49.34,1:36:51.68,Default,,0000,0000,0000,,我想让大友给我打个电话\NI want Otomo to call me.
+Dialogue: 0,1:36:52.22,1:36:53.68,Default,,0000,0000,0000,,好我一会儿去做\NYes, I'll do that.
+Dialogue: 0,1:37:19.29,1:37:20.58,Default,,0000,0000,0000,,这个汽车站?\NThis auto shop?
+Dialogue: 0,1:37:20.71,1:37:24.13,Default,,0000,0000,0000,,杀了木村的那两个人就在这工作\NThe two guys who killed Kimura work here.
+Dialogue: 0,1:37:25.96,1:37:28.92,Default,,0000,0000,0000,,最后一件事办完后你应该离开这\NYou should leave after this last job.
+Dialogue: 0,1:38:00.33,1:38:01.54,Default,,0000,0000,0000,,大友!\NOtomo!
+Dialogue: 0,1:38:23.27,1:38:24.90,Default,,0000,0000,0000,,所以就是它了\NSo, this is it.
+Dialogue: 0,1:38:43.71,1:38:44.96,Default,,0000,0000,0000,,大友先生\NMr. Otomo,
+Dialogue: 0,1:38:45.79,1:38:47.13,Default,,0000,0000,0000,,原谅我\Nforgive me.
+Dialogue: 0,1:38:48.88,1:38:52.96,Default,,0000,0000,0000,,我不能让你再给张先生惹麻烦了\NI can't allow you to make anymore trouble for Mr. Chang.
+Dialogue: 0,1:38:55.47,1:39:00.14,Default,,0000,0000,0000,,没必要李先生\NNo need, Mr. Lee.
+Dialogue: 0,1:39:01.14,1:39:03.14,Default,,0000,0000,0000,,我可以自己来\NI can take care of myself.
+Dialogue: 0,1:39:11.52,1:39:14.78,Default,,0000,0000,0000,,代我向张先生问好\NMy regards to Mr. Chang.
+Dialogue: 0,1:39:48.19,1:39:50.48,Default,,0000,0000,0000,,大友先生死了\NMr. Otomo is dead.
+Dialogue: 0,1:39:53.44,1:39:54.44,Default,,0000,0000,0000,,他真死了?\NHe is?
+Dialogue: 0,1:40:00.41,1:40:03.37,Default,,0000,0000,0000,,他让我给你问好\NHe told me to give you his regards.
+Dialogue: 0,1:40:40.86,1:40:42.87,Default,,0000,0000,0000,,有东西上钩了\NSomethings pulling.
+Dialogue: 0,1:40:42.99,1:40:44.08,Default,,0000,0000,0000,,我抓住了吗?\NDid I catch one?
+Dialogue: 0,1:40:44.20,1:40:47.12,Default,,0000,0000,0000,,抓圧了兄弟!我们一会儿拿它炖泡菜锅\NGot it, brother! We'll have that kimchi stew.
+Dialogue: 0,1:40:47.25,1:40:49.16,Default,,0000,0000,0000,,看那 兄弟\NLook at that, brother.
+
